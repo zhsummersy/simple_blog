@@ -1,0 +1,273 @@
+INFO 2021-07-21 19:29:29,425 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-21 19:29:40,001 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2021-07-21 19:29:45,066 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-21 19:29:45,089 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-21 19:29:45,421 basehttp 154 "GET /imagecode/?uuid=472797f9-c23f-49fa-8357-fad9fef5233f HTTP/1.1" 200 3123
+INFO 2021-07-21 19:29:54,471 basehttp 154 "GET /imagecode/?uuid=52d17eec-b100-4ce2-9326-c71cf3841320 HTTP/1.1" 200 3055
+INFO 2021-07-21 19:29:58,950 views 127 933067
+INFO 2021-07-21 19:29:59,120 basehttp 154 "GET /smscode/?mobile=18616147828&image_code=dlst&uuid=52d17eec-b100-4ce2-9326-c71cf3841320 HTTP/1.1" 200 63
+INFO 2021-07-21 19:30:05,579 basehttp 154 "GET /imagecode/?uuid=f5da4f88-905b-47fc-8db8-424ee0929bc5 HTTP/1.1" 200 3049
+INFO 2021-07-21 19:30:25,130 basehttp 154 "POST /register/ HTTP/1.1" 200 33
+INFO 2021-07-21 21:29:04,578 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-21 21:29:06,424 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2021-07-21 21:29:10,545 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2021-07-21 21:29:10,604 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1817
+INFO 2021-07-21 21:29:10,623 basehttp 154 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2021-07-21 21:29:10,844 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2021-07-21 21:29:10,868 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1817
+INFO 2021-07-21 21:29:19,050 basehttp 154 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1982
+INFO 2021-07-21 21:35:11,689 autoreload 203 C:\Users\hui\Desktop\django_blog\users\views.py changed, reloading.
+INFO 2021-07-21 21:35:13,852 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-21 21:35:56,718 autoreload 203 C:\Users\hui\Desktop\django_blog\users\views.py changed, reloading.
+INFO 2021-07-21 21:35:58,879 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-21 21:36:07,199 autoreload 203 C:\Users\hui\Desktop\django_blog\users\views.py changed, reloading.
+INFO 2021-07-21 21:36:09,177 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-21 21:37:44,930 autoreload 203 C:\Users\hui\Desktop\django_blog\users\views.py changed, reloading.
+INFO 2021-07-21 21:37:46,950 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-21 21:38:00,045 autoreload 203 C:\Users\hui\Desktop\django_blog\users\views.py changed, reloading.
+INFO 2021-07-21 21:38:02,179 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-21 21:38:16,219 autoreload 203 C:\Users\hui\Desktop\django_blog\users\views.py changed, reloading.
+INFO 2021-07-21 21:38:18,085 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-21 21:39:23,723 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-21 21:39:25,198 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2021-07-21 21:39:29,967 basehttp 154 "GET /static/login.html HTTP/1.1" 304 0
+WARNING 2021-07-21 21:39:31,374 log 228 Not Found: /templates/register.html
+WARNING 2021-07-21 21:39:31,376 basehttp 154 "GET /templates/register.html HTTP/1.1" 404 2693
+INFO 2021-07-21 21:39:39,288 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-21 21:39:39,330 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-21 21:39:56,482 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-21 21:39:56,536 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-21 21:39:56,537 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-21 21:39:56,538 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-21 21:39:56,541 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2021-07-21 21:39:56,542 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-21 21:39:56,562 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-07-21 21:39:57,091 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-21 21:39:57,119 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-21 21:39:57,120 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-21 21:39:57,120 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-21 21:39:57,121 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2021-07-21 21:39:57,126 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-21 21:39:57,133 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-07-21 21:39:57,305 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-21 21:39:57,334 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-21 21:39:57,335 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-21 21:39:57,335 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-21 21:39:57,336 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2021-07-21 21:39:57,339 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-21 21:39:57,348 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-07-21 21:39:57,454 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-21 21:39:57,482 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-21 21:39:57,482 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-21 21:39:57,482 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-21 21:39:57,483 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2021-07-21 21:39:57,489 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-21 21:39:57,494 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-07-21 21:39:57,639 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-21 21:39:57,667 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-21 21:39:57,667 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-21 21:39:57,667 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-21 21:39:57,668 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2021-07-21 21:39:57,677 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-21 21:39:57,679 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-07-21 21:39:57,756 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-21 21:39:57,789 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-21 21:39:57,789 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-21 21:39:57,790 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-21 21:39:57,792 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2021-07-21 21:39:57,795 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-21 21:39:57,802 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-07-21 21:39:58,086 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-21 21:39:58,117 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-21 21:39:58,117 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-21 21:39:58,117 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-21 21:39:58,120 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2021-07-21 21:39:58,122 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-21 21:39:58,131 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-07-21 21:39:58,266 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-21 21:39:58,294 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-21 21:39:58,294 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-21 21:39:58,294 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-21 21:39:58,296 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2021-07-21 21:39:58,303 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-21 21:39:58,307 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+WARNING 2021-07-21 21:40:00,037 log 228 Not Found: /register/login.html
+WARNING 2021-07-21 21:40:00,037 basehttp 154 "GET /register/login.html HTTP/1.1" 404 2681
+WARNING 2021-07-21 21:40:00,069 log 228 Not Found: /favicon.ico
+WARNING 2021-07-21 21:40:00,070 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2657
+ERROR 2021-07-21 21:40:07,181 basehttp 154 "GET /imagecode/?uuid=7fea0bea-578d-4688-8c67-afa1d8518683 HTTP/1.1" 500 59
+ERROR 2021-07-21 21:40:07,213 basehttp 154 "GET /imagecode/?uuid=41a7cda0-9995-42c5-a0f3-6553c3e3baaf HTTP/1.1" 500 59
+ERROR 2021-07-21 21:40:07,228 basehttp 154 "GET /imagecode/?uuid=a2eb1f8e-3703-47be-842f-5b30fc9bbec7 HTTP/1.1" 500 59
+ERROR 2021-07-21 21:40:07,261 basehttp 154 "GET /imagecode/?uuid=69be3387-e29c-4723-9182-e08e5321efdf HTTP/1.1" 500 59
+ERROR 2021-07-21 21:40:07,262 basehttp 154 "GET /imagecode/?uuid=94ae03ab-d5ff-4501-ae39-1c8d8a6e6118 HTTP/1.1" 500 59
+ERROR 2021-07-21 21:40:07,262 basehttp 154 "GET /imagecode/?uuid=e99ec16c-63aa-4e71-8883-bbcd4e3c908a HTTP/1.1" 500 59
+ERROR 2021-07-21 21:40:07,262 basehttp 154 "GET /imagecode/?uuid=1f3b0c2d-b88c-499d-8af2-1d1b65e4e639 HTTP/1.1" 500 59
+ERROR 2021-07-21 21:40:07,278 basehttp 154 "GET /imagecode/?uuid=1332eb2c-810d-4b52-8d38-178e2cff62f5 HTTP/1.1" 500 59
+ERROR 2021-07-21 21:40:07,278 basehttp 154 "GET /imagecode/?uuid=c69d6672-27f5-4b32-9f1c-72d8fc5aefad HTTP/1.1" 500 59
+ERROR 2021-07-21 21:40:07,278 basehttp 154 "GET /imagecode/?uuid=44e41114-7d88-489d-9c36-75e3ec11855a HTTP/1.1" 500 59
+ERROR 2021-07-21 21:40:07,278 basehttp 154 "GET /imagecode/?uuid=b6d97576-ad62-4f5f-8c10-0bfc9eae9675 HTTP/1.1" 500 59
+ERROR 2021-07-21 21:40:07,292 basehttp 154 "GET /imagecode/?uuid=907de26d-2ba9-4369-9db4-f73bd8a3319d HTTP/1.1" 500 59
+ERROR 2021-07-21 21:40:07,339 basehttp 154 "GET /imagecode/?uuid=d4e32ddf-218f-4e25-b43d-57bfd080ea71 HTTP/1.1" 500 59
+INFO 2021-07-21 21:40:07,737 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-21 21:40:08,891 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+ERROR 2021-07-21 21:40:09,847 basehttp 154 "GET /imagecode/?uuid=186da1ed-3951-4939-af26-c09ac5f05cbe HTTP/1.1" 500 59
+INFO 2021-07-21 21:40:10,155 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-21 21:40:10,187 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-21 21:40:10,187 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-21 21:40:10,188 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-21 21:40:10,188 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2021-07-21 21:40:10,192 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-21 21:40:10,200 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+ERROR 2021-07-21 21:40:11,029 basehttp 154 "GET /imagecode/?uuid=0b7437e0-f6af-4cf4-8f31-c58d07fe7404 HTTP/1.1" 500 59
+ERROR 2021-07-21 21:40:12,307 basehttp 154 "GET /imagecode/?uuid=358904d7-ddac-4fa1-9ed1-b3973548b066 HTTP/1.1" 500 59
+WARNING 2021-07-21 21:40:12,319 log 228 Not Found: /favicon.ico
+WARNING 2021-07-21 21:40:12,319 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2657
+INFO 2021-07-21 21:40:21,964 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-21 21:40:23,222 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-21 21:40:23,761 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+ERROR 2021-07-21 21:40:25,362 basehttp 154 "GET /imagecode/?uuid=748f8955-7ef3-48f2-908b-27195bf64361 HTTP/1.1" 500 59
+ERROR 2021-07-21 21:40:25,874 basehttp 154 "GET /imagecode/?uuid=884f4aef-ee37-4705-a42c-ed706d6e8f50 HTTP/1.1" 500 59
+INFO 2021-07-21 21:40:26,406 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-21 21:40:27,433 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-21 21:40:27,466 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2021-07-21 21:40:27,466 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-21 21:40:27,467 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-21 21:40:27,469 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-21 21:40:27,470 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-21 21:40:27,478 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+ERROR 2021-07-21 21:40:27,775 basehttp 154 "GET /imagecode/?uuid=4b9a79b6-3f1f-472b-ac28-42595adad65f HTTP/1.1" 500 59
+ERROR 2021-07-21 21:40:28,574 basehttp 154 "GET /imagecode/?uuid=89d550fe-c9b7-43d1-be74-8a408b2fb5fd HTTP/1.1" 500 59
+ERROR 2021-07-21 21:40:29,628 basehttp 154 "GET /imagecode/?uuid=c2464890-d3fa-4884-bcbe-4753c7907189 HTTP/1.1" 500 59
+WARNING 2021-07-21 21:40:29,642 log 228 Not Found: /favicon.ico
+WARNING 2021-07-21 21:40:29,642 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2657
+INFO 2021-07-21 21:41:18,884 autoreload 203 C:\Users\hui\Desktop\blog_project\venv\Lib\site-packages\django\views\debug.py changed, reloading.
+INFO 2021-07-21 21:41:20,680 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-21 21:41:24,931 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-21 21:41:27,720 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-21 21:41:28,270 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+ERROR 2021-07-21 21:41:29,987 log 228 Internal Server Error: /imagecode/
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\connection.py", line 559, in connect
+    sock = self._connect()
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\connection.py", line 615, in _connect
+    raise err
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\connection.py", line 603, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog\users\views.py", line 83, in get
+    redis_conn.setex('img:%s' % uuid, 300, text)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\client.py", line 1822, in setex
+    return self.execute_command('SETEX', name, time, value)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\client.py", line 898, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\connection.py", line 1192, in get_connection
+    connection.connect()
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\connection.py", line 563, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2021-07-21 21:41:30,002 basehttp 154 "GET /imagecode/?uuid=a21ff5fd-b8c3-47a7-884c-e5b2e12192b8 HTTP/1.1" 500 121491
+ERROR 2021-07-21 21:41:30,004 basehttp 154 "GET /imagecode/?uuid=a21ff5fd-b8c3-47a7-884c-e5b2e12192b8 HTTP/1.1" 500 59
+ERROR 2021-07-21 21:41:30,436 log 228 Internal Server Error: /imagecode/
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\connection.py", line 559, in connect
+    sock = self._connect()
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\connection.py", line 615, in _connect
+    raise err
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\connection.py", line 603, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog\users\views.py", line 83, in get
+    redis_conn.setex('img:%s' % uuid, 300, text)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\client.py", line 1822, in setex
+    return self.execute_command('SETEX', name, time, value)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\client.py", line 898, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\connection.py", line 1192, in get_connection
+    connection.connect()
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\connection.py", line 563, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2021-07-21 21:41:30,441 basehttp 154 "GET /imagecode/?uuid=f76f6022-1fed-4efc-b278-e645417611ee HTTP/1.1" 500 121478
+INFO 2021-07-21 21:41:33,498 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-21 21:41:33,533 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-21 21:41:33,534 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-21 21:41:33,536 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-21 21:41:33,537 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2021-07-21 21:41:33,538 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-21 21:41:33,547 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+ERROR 2021-07-21 21:41:35,693 log 228 Internal Server Error: /imagecode/
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\connection.py", line 559, in connect
+    sock = self._connect()
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\connection.py", line 615, in _connect
+    raise err
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\connection.py", line 603, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog\users\views.py", line 83, in get
+    redis_conn.setex('img:%s' % uuid, 300, text)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\client.py", line 1822, in setex
+    return self.execute_command('SETEX', name, time, value)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\client.py", line 898, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\connection.py", line 1192, in get_connection
+    connection.connect()
+  File "C:\Users\hui\Desktop\blog_project\venv\lib\site-packages\redis\connection.py", line 563, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2021-07-21 21:41:35,697 basehttp 154 "GET /imagecode/?uuid=1e6d6290-8822-4d4f-8fe1-8616c328e063 HTTP/1.1" 500 121769
+WARNING 2021-07-21 21:41:35,709 log 228 Not Found: /favicon.ico
+WARNING 2021-07-21 21:41:35,710 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2657
+INFO 2021-07-21 21:41:55,395 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-21 21:41:55,492 basehttp 154 "GET /imagecode/?uuid=d40b7053-f101-4bed-afec-c4e5f6238867 HTTP/1.1" 200 3099
+INFO 2021-07-21 23:22:19,966 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-21 23:23:00,476 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-21 23:23:04,069 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2021-07-21 23:23:04,130 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-21 23:23:04,156 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-21 23:23:04,178 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-21 23:23:04,188 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+WARNING 2021-07-21 23:23:04,415 log 228 Not Found: /favicon.ico
+WARNING 2021-07-21 23:23:04,416 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2657
