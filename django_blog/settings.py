@@ -106,9 +106,9 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/2.2/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'zh-Hans'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Shanghai'
 
 USE_I18N = True
 
@@ -189,3 +189,17 @@ LOGGING = {
         },
     }
 }
+
+#修改系统默认跳转
+LOGIN_URL = '/login/'
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
+
+# Mobile: 18616147828
+# Error: That mobile is already taken.
+# Mobile: 13667824578
+# 用户名: zh
+# 电子邮件地址: 573624517@qq.com
+# Password:
+# Password (again):
+# Superuser created successfully.

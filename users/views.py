@@ -1,13 +1,12 @@
 from django.shortcuts import render
 from django.views import View
-
-
 import re
 from users.models import User
 from django.db import DatabaseError
-
 from django.shortcuts import redirect
 from django.urls import reverse
+
+
 class RegisterView(View):
 
 # 实现页面展示
@@ -57,9 +56,21 @@ class RegisterView(View):
 
         # 响应注册结果
         # 进行重定向,可以使用namespace的名字
-        return redirect(reverse('home:index'))
+
+
+        #登录状态保持
+        from django.contrib.auth import login
+        login(request,user)
+
+        response=redirect(reverse('home:index'))
         # return HttpResponse('注册成功，重定向到首页')
 
+        response.set_cookie('is_login',True)
+        response.set_cookie('username',user.username,max_age=7*24*3600)
+
+        return response
+
+        #设置cookies信息
 
 
 
@@ -136,3 +147,183 @@ class SmsCodeView(View):
 
         # 响应结果
         return JsonResponse({'code': RETCODE.OK, 'errmsg': '发送短信成功'})
+
+
+
+
+
+from django.contrib.auth import login
+from django.contrib.auth import authenticate
+
+class LoginView(View):
+
+
+    def get(self,request):
+        return render(request,'login.html')
+
+    def post(self,request):
+        # 接受参数
+        mobile = request.POST.get('mobile')
+        password = request.POST.get('password')
+        remember = request.POST.get('remember')
+
+        # 校验参数
+        # 判断参数是否齐全
+        if not all([mobile, password]):
+            return HttpResponseBadRequest('缺少必传参数')
+
+        # 判断手机号是否正确
+        if not re.match(r'^1[3-9]\d{9}$', mobile):
+            return HttpResponseBadRequest('请输入正确的手机号')
+
+        # 判断密码是否是8-20个数字
+        if not re.match(r'^[0-9A-Za-z]{8,20}$', password):
+            return HttpResponseBadRequest('密码最少8位，最长20位')
+
+        # 认证登录用户
+        # 认证字段已经在User模型中的USERNAME_FIELD = 'mobile'修改
+        user=authenticate(mobile=mobile, password=password)
+
+        if user is None:
+            return HttpResponseBadRequest('用户名或密码错误')
+
+        # 实现状态保持
+        login(request, user)
+
+        next = request.GET.get('next')
+        if next:
+            response = redirect(next)
+        else:
+            response = redirect(reverse('home:index'))
+
+
+        # 设置状态保持的周期
+        if remember != 'on':
+            # 没有记住用户：浏览器会话结束就过期
+            request.session.set_expiry(0)
+            # 设置cookie
+            response.set_cookie('is_login', True)
+            response.set_cookie('username', user.username, max_age=30 * 24 * 3600)
+        else:
+            # 记住用户：None表示两周后过期
+            request.session.set_expiry(None)
+            # 设置cookie
+            response.set_cookie('is_login', True, max_age=14*24 * 3600)
+            response.set_cookie('username', user.username, max_age=30 * 24 * 3600)
+        #返回响应
+        return response
+
+
+
+from django.views import View
+from django.contrib.auth.mixins import LoginRequiredMixin
+class UserCenterView(LoginRequiredMixin,View):
+
+    def get(self,request):
+        user = request.user
+        context = {
+            'username': user.username,
+            'mobile': user.mobile,
+            'avatar': user.avatar.url if user.avatar else None,
+            'user_desc': user.user_desc
+        }
+
+        return render(request,'center.html',context=context)
+
+# 修改个人中心,使用post方法：
+    def post(self, request):
+        # 接收数据
+        user = request.user
+        avatar = request.FILES.get('avatar')
+        username = request.POST.get('username', user.username)
+        user_desc = request.POST.get('desc', user.user_desc)
+
+        # 修改数据库数据
+        try:
+            user.username = username
+            user.user_desc = user_desc
+            if avatar:
+                user.avatar = avatar
+            user.save()
+        except Exception as e:
+            logger.error(e)
+            return HttpResponseBadRequest('更新失败，请稍后再试')
+
+        # 返回响应，刷新页面
+        response = redirect(reverse('users:center'))
+        # 更新cookie信息
+        response.set_cookie('username', user.username, max_age=30 * 24 * 3600)
+        return response
+
+
+from django.contrib.auth import logout
+
+class LogoutView(View):
+
+    def get(self,request):
+        # 清理session
+        logout(request)
+        # 退出登录，重定向到登录页
+        response = redirect(reverse('home:index'))
+        # 退出登录时清除cookie中的登录状态
+        response.delete_cookie('is_login')
+
+        return response
+
+
+from home.models import ArticleCategory,Article
+class WriteBlogView(LoginRequiredMixin,View):
+
+    def get(self,request):
+
+        return render(request,'write_blog.html')
+
+    def get(self,request):
+        # 获取博客分类信息
+        # 通过context方法传递给html
+        categories = ArticleCategory.objects.all()
+
+        context = {
+            'categories': categories
+        }
+        return render(request,'write_blog.html',context=context)
+
+    def post(self, request):
+        # 接收数据
+        avatar = request.FILES.get('avatar')
+        title = request.POST.get('title')
+        category_id = request.POST.get('category')
+        tags = request.POST.get('tags')
+        sumary = request.POST.get('sumary')
+        content = request.POST.get('content')
+        user = request.user
+
+        # 验证数据是否齐全
+        if not all([avatar, title, category_id, sumary, content]):
+            return HttpResponseBadRequest('参数不全')
+
+        # 判断文章分类id数据是否正确
+        try:
+            article_category = ArticleCategory.objects.get(id=category_id)
+        except ArticleCategory.DoesNotExist:
+            return HttpResponseBadRequest('没有此分类信息')
+
+        # 保存到数据库
+        try:
+            article = Article.objects.create(
+                author=user,
+                avatar=avatar,
+                category=article_category,
+                tags=tags,
+                title=title,
+                sumary=sumary,
+                content=content
+            )
+        except Exception as e:
+            logger.error(e)
+            return HttpResponseBadRequest('发布失败，请稍后再试')
+
+        # 返回响应，跳转到文章详情页面
+        # 暂时先跳转到首页
+        return redirect(reverse('home:index'))
+

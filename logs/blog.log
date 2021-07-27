@@ -271,3 +271,1445 @@ INFO 2021-07-21 23:23:04,178 basehttp 154 "GET /static/js/common.js HTTP/1.1" 20
 INFO 2021-07-21 23:23:04,188 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
 WARNING 2021-07-21 23:23:04,415 log 228 Not Found: /favicon.ico
 WARNING 2021-07-21 23:23:04,416 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2657
+INFO 2021-07-22 22:10:16,841 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-22 22:10:18,774 basehttp 154 "GET / HTTP/1.1" 200 11962
+WARNING 2021-07-22 22:10:19,085 log 228 Not Found: /favicon.ico
+WARNING 2021-07-22 22:10:19,086 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2657
+WARNING 2021-07-22 22:10:21,917 log 228 Not Found: /dasd
+WARNING 2021-07-22 22:10:21,918 basehttp 154 "GET /dasd HTTP/1.1" 404 2636
+INFO 2021-07-25 22:15:59,330 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 22:16:01,246 basehttp 154 "GET / HTTP/1.1" 200 11962
+WARNING 2021-07-25 22:16:01,615 log 228 Not Found: /favicon.ico
+WARNING 2021-07-25 22:16:01,616 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2657
+INFO 2021-07-25 22:16:18,923 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2021-07-25 22:16:18,989 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2021-07-25 22:16:18,989 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2021-07-25 22:16:18,990 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2021-07-25 22:16:18,997 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-25 22:16:19,001 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-25 22:16:19,057 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-07-25 22:16:19,069 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2021-07-25 22:16:19,098 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-25 22:16:19,119 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-25 22:16:19,136 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2021-07-25 22:16:19,156 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2021-07-25 22:16:19,178 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+WARNING 2021-07-25 22:16:20,427 log 228 Not Found: /favicon.ico
+WARNING 2021-07-25 22:16:20,428 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2657
+INFO 2021-07-25 22:16:33,643 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2021-07-25 22:16:41,737 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-25 22:16:41,851 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+ERROR 2021-07-25 22:16:44,433 basehttp 154 "GET /imagecode/?uuid=d6b677a6-cd7e-44ce-8019-eb9c1c722693 HTTP/1.1" 500 59
+ERROR 2021-07-25 22:16:46,432 basehttp 154 "GET /imagecode/?uuid=40bdc3f4-90ea-4bee-beeb-8c59bca76fd6 HTTP/1.1" 500 59
+INFO 2021-07-25 22:16:47,147 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+ERROR 2021-07-25 22:16:48,903 basehttp 154 "GET /imagecode/?uuid=50d130ba-7389-4843-a308-204f959d4bae HTTP/1.1" 500 59
+ERROR 2021-07-25 22:16:49,268 basehttp 154 "GET /imagecode/?uuid=523f8163-a86e-45de-8b4c-afba8e9ccf5f HTTP/1.1" 500 59
+INFO 2021-07-25 22:22:44,711 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 22:22:50,700 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2021-07-25 22:22:58,975 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2021-07-25 22:23:05,594 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-25 22:23:05,984 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-25 22:23:06,073 basehttp 154 "GET /imagecode/?uuid=267b5f4a-fc2d-4482-8003-0c379eab702f HTTP/1.1" 200 3396
+INFO 2021-07-25 22:23:18,191 views 145 344360
+INFO 2021-07-25 22:23:18,390 basehttp 154 "GET /smscode/?mobile=18616147828&image_code=ixjw&uuid=267b5f4a-fc2d-4482-8003-0c379eab702f HTTP/1.1" 200 63
+WARNING 2021-07-25 22:23:28,012 log 228 Bad Request: /register/
+WARNING 2021-07-25 22:23:28,014 basehttp 154 "POST /register/ HTTP/1.1" 400 12
+WARNING 2021-07-25 22:24:09,523 log 228 Bad Request: /register/
+WARNING 2021-07-25 22:24:09,525 basehttp 154 "POST /register/ HTTP/1.1" 400 12
+INFO 2021-07-25 22:24:10,735 basehttp 154 "GET /imagecode/?uuid=0ab8f5a0-415b-4499-adc2-7c08368c6a5e HTTP/1.1" 200 2992
+INFO 2021-07-25 22:25:13,478 views 145 410445
+INFO 2021-07-25 22:25:13,616 basehttp 154 "GET /smscode/?mobile=18616147828&image_code=wmji&uuid=0ab8f5a0-415b-4499-adc2-7c08368c6a5e HTTP/1.1" 200 63
+INFO 2021-07-25 22:25:23,344 basehttp 154 "POST /register/ HTTP/1.1" 302 0
+INFO 2021-07-25 22:25:23,354 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2021-07-25 22:29:02,025 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 22:29:03,796 basehttp 154 "GET / HTTP/1.1" 200 11952
+INFO 2021-07-25 22:29:09,430 basehttp 154 "GET /login/ HTTP/1.1" 200 3084
+INFO 2021-07-25 22:29:09,550 basehttp 154 "GET /static/js/login.js HTTP/1.1" 200 677
+INFO 2021-07-25 22:34:04,001 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 22:34:08,313 basehttp 154 "GET /login/ HTTP/1.1" 200 3070
+INFO 2021-07-25 22:34:09,246 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-25 22:34:09,347 basehttp 154 "GET /imagecode/?uuid=44f1d143-6037-40ef-8073-75bd47c6605c HTTP/1.1" 200 3248
+INFO 2021-07-25 22:34:13,314 basehttp 154 "GET /static/forget_password.html HTTP/1.1" 200 5277
+INFO 2021-07-25 22:34:13,346 basehttp 154 "GET /static/img/image_code.png HTTP/1.1" 200 3483
+INFO 2021-07-25 22:34:13,361 basehttp 154 "GET /static/js/forget_password.js HTTP/1.1" 200 6567
+INFO 2021-07-25 22:49:54,823 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 22:49:56,558 basehttp 154 "GET / HTTP/1.1" 200 11952
+INFO 2021-07-25 22:50:02,636 basehttp 154 "GET /static/write_blog.html HTTP/1.1" 200 5750
+INFO 2021-07-25 22:50:02,684 basehttp 154 "GET /static/js/write_blog.js HTTP/1.1" 200 521
+INFO 2021-07-25 22:50:02,699 basehttp 154 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 200 2039
+INFO 2021-07-25 22:50:03,088 basehttp 154 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 200 690627
+INFO 2021-07-25 22:50:03,158 basehttp 154 "GET /static/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 200 338
+INFO 2021-07-25 22:50:03,187 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 200 46921
+INFO 2021-07-25 22:50:03,213 basehttp 154 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 200 18818
+INFO 2021-07-25 22:50:03,243 basehttp 154 "GET /static/ckeditor/ckeditor/styles.js?t=I3I8 HTTP/1.1" 200 5583
+INFO 2021-07-25 22:50:03,272 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css HTTP/1.1" 200 381
+INFO 2021-07-25 22:50:03,272 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css HTTP/1.1" 200 419
+INFO 2021-07-25 22:50:03,276 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css HTTP/1.1" 200 1082
+INFO 2021-07-25 22:50:03,277 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css HTTP/1.1" 200 1306
+INFO 2021-07-25 22:50:03,330 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=95e5d83 HTTP/1.1" 200 12421
+INFO 2021-07-25 22:50:03,348 basehttp 154 "GET /static/ckeditor/ckeditor/contents.css?t=I3I8 HTTP/1.1" 200 2954
+INFO 2021-07-25 22:50:07,817 basehttp 154 "GET / HTTP/1.1" 200 11952
+INFO 2021-07-25 22:50:18,554 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2021-07-25 22:50:19,145 basehttp 154 "GET /imagecode/?uuid=25698563-9115-4f80-b905-fbef285c7664 HTTP/1.1" 200 3095
+WARNING 2021-07-25 22:50:25,349 base 102 Method Not Allowed (GET): /login/
+WARNING 2021-07-25 22:50:25,351 log 228 Method Not Allowed: /login/
+WARNING 2021-07-25 22:50:25,353 basehttp 154 "GET /login/ HTTP/1.1" 405 0
+WARNING 2021-07-25 22:50:27,560 base 102 Method Not Allowed (GET): /login/
+WARNING 2021-07-25 22:50:27,562 log 228 Method Not Allowed: /login/
+WARNING 2021-07-25 22:50:27,563 basehttp 154 "GET /login/ HTTP/1.1" 405 0
+INFO 2021-07-25 22:52:09,454 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 22:52:11,036 basehttp 154 "GET / HTTP/1.1" 200 11952
+WARNING 2021-07-25 22:52:15,243 base 102 Method Not Allowed (GET): /login/
+WARNING 2021-07-25 22:52:15,245 log 228 Method Not Allowed: /login/
+WARNING 2021-07-25 22:52:15,246 basehttp 154 "GET /login/ HTTP/1.1" 405 0
+INFO 2021-07-25 22:54:10,594 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 22:54:11,825 basehttp 154 "GET / HTTP/1.1" 200 11952
+INFO 2021-07-25 22:54:12,820 autoreload 203 C:\Users\hui\Desktop\django_blog\users\views.py changed, reloading.
+INFO 2021-07-25 22:54:14,120 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 22:54:17,661 basehttp 154 "GET /login/ HTTP/1.1" 200 3212
+INFO 2021-07-25 22:54:23,626 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2021-07-25 22:54:23,635 basehttp 154 "GET / HTTP/1.1" 200 11952
+INFO 2021-07-25 23:13:19,769 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 23:13:21,742 basehttp 154 "GET / HTTP/1.1" 200 11959
+INFO 2021-07-25 23:13:24,647 basehttp 154 "GET /static/center.html HTTP/1.1" 200 4162
+INFO 2021-07-25 23:13:24,718 basehttp 154 "GET /static/js/center.js HTTP/1.1" 200 522
+INFO 2021-07-25 23:13:24,739 basehttp 154 "GET /static/img/mei.png HTTP/1.1" 200 230847
+INFO 2021-07-25 23:13:31,631 basehttp 154 "GET /static/write_blog.html HTTP/1.1" 304 0
+INFO 2021-07-25 23:23:10,548 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 23:23:15,477 basehttp 154 "GET / HTTP/1.1" 200 11949
+INFO 2021-07-25 23:23:19,778 basehttp 154 "GET /center HTTP/1.1" 301 0
+ERROR 2021-07-25 23:23:19,866 basehttp 154 "GET /center/ HTTP/1.1" 500 59
+INFO 2021-07-25 23:26:42,132 autoreload 203 C:\Users\hui\Desktop\django_blog_env\venv\Lib\site-packages\django\views\debug.py changed, reloading.
+INFO 2021-07-25 23:26:43,812 autoreload 578 Watching for file changes with StatReloader
+ERROR 2021-07-25 23:26:44,433 log 228 Internal Server Error: /center/
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\urls\base.py", line 75, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'user'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog\users\views.py", line 217, in get
+    return render(request,'center.html')
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\urls\base.py", line 86, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'user' is not a registered namespace
+ERROR 2021-07-25 23:26:44,445 basehttp 154 "GET /center/ HTTP/1.1" 500 140414
+WARNING 2021-07-25 23:26:44,675 log 228 Not Found: /favicon.ico
+WARNING 2021-07-25 23:26:44,677 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2993
+INFO 2021-07-25 23:27:05,467 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 23:27:12,268 basehttp 154 "GET / HTTP/1.1" 200 11949
+WARNING 2021-07-25 23:27:15,329 log 228 Not Found: /center.html
+WARNING 2021-07-25 23:27:15,330 basehttp 154 "GET /center.html HTTP/1.1" 404 2993
+INFO 2021-07-25 23:28:19,810 autoreload 203 C:\Users\hui\Desktop\django_blog\users\views.py changed, reloading.
+INFO 2021-07-25 23:28:21,419 autoreload 578 Watching for file changes with StatReloader
+ERROR 2021-07-25 23:28:29,431 basehttp 154 "GET /center/ HTTP/1.1" 500 59
+INFO 2021-07-25 23:31:49,437 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 23:31:50,655 basehttp 154 "GET / HTTP/1.1" 200 11949
+WARNING 2021-07-25 23:31:53,154 log 228 Not Found: /center.html
+WARNING 2021-07-25 23:31:53,155 basehttp 154 "GET /center.html HTTP/1.1" 404 2993
+INFO 2021-07-25 23:32:39,910 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 23:32:40,977 basehttp 154 "GET / HTTP/1.1" 200 11946
+ERROR 2021-07-25 23:32:42,749 basehttp 154 "GET /center/ HTTP/1.1" 500 59
+INFO 2021-07-25 23:33:31,152 autoreload 578 Watching for file changes with StatReloader
+ERROR 2021-07-25 23:33:36,460 basehttp 154 "GET /center/ HTTP/1.1" 500 59
+ERROR 2021-07-25 23:33:37,156 basehttp 154 "GET /center/ HTTP/1.1" 500 59
+INFO 2021-07-25 23:33:55,567 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 23:35:54,892 autoreload 578 Watching for file changes with StatReloader
+ERROR 2021-07-25 23:35:56,639 basehttp 154 "GET / HTTP/1.1" 500 59
+INFO 2021-07-25 23:36:45,083 autoreload 578 Watching for file changes with StatReloader
+ERROR 2021-07-25 23:36:46,199 basehttp 154 "GET / HTTP/1.1" 500 59
+INFO 2021-07-25 23:38:32,199 autoreload 578 Watching for file changes with StatReloader
+ERROR 2021-07-25 23:38:33,608 basehttp 154 "GET / HTTP/1.1" 500 59
+INFO 2021-07-25 23:39:44,166 autoreload 578 Watching for file changes with StatReloader
+ERROR 2021-07-25 23:39:45,422 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog\home\views.py", line 9, in get
+    return render(request, 'index.html')
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\urls\resolvers.py", line 660, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'center' not found. 'center' is not a valid view function or pattern name.
+ERROR 2021-07-25 23:39:45,432 basehttp 154 "GET / HTTP/1.1" 500 142584
+INFO 2021-07-25 23:40:58,648 autoreload 203 C:\Users\hui\Desktop\django_blog\users\views.py changed, reloading.
+INFO 2021-07-25 23:41:00,060 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 23:41:47,895 autoreload 578 Watching for file changes with StatReloader
+ERROR 2021-07-25 23:41:50,765 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog\home\views.py", line 9, in get
+    return render(request, 'index.html')
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\urls\resolvers.py", line 660, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout' not found. 'logout' is not a valid view function or pattern name.
+ERROR 2021-07-25 23:41:50,774 basehttp 154 "GET / HTTP/1.1" 500 138217
+ERROR 2021-07-25 23:41:52,490 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog\home\views.py", line 9, in get
+    return render(request, 'index.html')
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\urls\resolvers.py", line 660, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout' not found. 'logout' is not a valid view function or pattern name.
+ERROR 2021-07-25 23:41:52,498 basehttp 154 "GET / HTTP/1.1" 500 138217
+ERROR 2021-07-25 23:41:53,021 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog\home\views.py", line 9, in get
+    return render(request, 'index.html')
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\urls\resolvers.py", line 660, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout' not found. 'logout' is not a valid view function or pattern name.
+ERROR 2021-07-25 23:41:53,028 basehttp 154 "GET / HTTP/1.1" 500 138217
+INFO 2021-07-25 23:42:54,391 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 23:42:56,454 basehttp 154 "GET / HTTP/1.1" 200 11946
+ERROR 2021-07-25 23:42:59,102 log 228 Internal Server Error: /center/
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\urls\base.py", line 75, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'user'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog\users\views.py", line 223, in get
+    return render(request,'center.html')
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\urls\base.py", line 86, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'user' is not a registered namespace
+ERROR 2021-07-25 23:42:59,114 basehttp 154 "GET /center/ HTTP/1.1" 500 140244
+INFO 2021-07-25 23:43:39,531 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 23:43:40,835 basehttp 154 "GET /center/ HTTP/1.1" 200 4106
+INFO 2021-07-25 23:50:53,274 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 23:50:54,748 basehttp 154 "GET / HTTP/1.1" 200 11953
+INFO 2021-07-25 23:50:57,577 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2021-07-25 23:50:57,586 basehttp 154 "GET / HTTP/1.1" 200 11953
+INFO 2021-07-25 23:51:00,527 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2021-07-25 23:51:00,535 basehttp 154 "GET / HTTP/1.1" 200 11953
+INFO 2021-07-25 23:53:39,612 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 23:53:40,770 basehttp 154 "GET / HTTP/1.1" 200 11953
+WARNING 2021-07-25 23:53:42,712 log 228 Not Found: /index.html
+WARNING 2021-07-25 23:53:42,713 basehttp 154 "GET /index.html HTTP/1.1" 404 3159
+INFO 2021-07-25 23:53:47,281 basehttp 154 "GET /center/ HTTP/1.1" 200 4106
+INFO 2021-07-25 23:53:50,097 basehttp 154 "GET /login/ HTTP/1.1" 200 3212
+INFO 2021-07-25 23:53:53,921 basehttp 154 "GET / HTTP/1.1" 200 11953
+INFO 2021-07-25 23:53:53,958 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2021-07-25 23:53:53,959 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-25 23:53:53,959 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2021-07-25 23:53:53,959 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2021-07-25 23:53:53,969 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-25 23:53:53,976 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2021-07-25 23:53:53,982 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-07-25 23:53:53,993 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-25 23:53:54,001 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-25 23:53:54,008 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2021-07-25 23:53:54,016 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2021-07-25 23:53:54,027 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+WARNING 2021-07-25 23:53:55,729 log 228 Not Found: /favicon.ico
+WARNING 2021-07-25 23:53:55,731 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3162
+WARNING 2021-07-25 23:53:56,799 log 228 Not Found: /login.html
+WARNING 2021-07-25 23:53:56,800 basehttp 154 "GET /login.html HTTP/1.1" 404 3159
+WARNING 2021-07-25 23:53:59,753 log 228 Not Found: /login.html
+WARNING 2021-07-25 23:53:59,754 basehttp 154 "GET /login.html HTTP/1.1" 404 3159
+INFO 2021-07-25 23:55:09,801 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-25 23:55:11,026 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-25 23:55:11,938 basehttp 154 "GET /login/ HTTP/1.1" 200 3212
+INFO 2021-07-25 23:55:14,227 basehttp 154 "GET /login/ HTTP/1.1" 200 3212
+INFO 2021-07-25 23:55:20,395 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2021-07-25 23:55:20,406 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-25 23:55:22,590 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2021-07-25 23:55:22,599 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-26 00:45:28,344 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-26 00:45:30,030 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-26 00:45:30,104 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2021-07-26 00:45:30,912 autoreload 203 C:\Users\hui\Desktop\django_blog\users\views.py changed, reloading.
+INFO 2021-07-26 00:45:33,061 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-26 00:45:33,658 basehttp 154 "GET /login/ HTTP/1.1" 200 3212
+INFO 2021-07-26 00:45:37,630 basehttp 154 "GET /login/ HTTP/1.1" 200 3212
+INFO 2021-07-26 00:45:46,564 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2021-07-26 00:45:46,572 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-26 00:45:50,111 basehttp 154 "GET /center/ HTTP/1.1" 200 4106
+INFO 2021-07-26 00:46:24,476 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-26 00:46:24,766 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-26 00:46:24,962 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-26 00:46:25,147 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-26 00:46:25,361 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-26 00:46:25,560 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-26 00:46:26,773 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2021-07-26 00:46:26,782 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-26 00:46:27,951 basehttp 154 "GET /login/ HTTP/1.1" 200 3212
+INFO 2021-07-26 00:46:34,122 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2021-07-26 00:46:34,130 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-26 00:46:37,137 basehttp 154 "GET /center/ HTTP/1.1" 200 4106
+INFO 2021-07-26 00:47:22,458 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-26 00:47:23,835 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-26 00:47:25,963 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2021-07-26 00:47:25,971 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-26 00:47:27,848 basehttp 154 "GET /static/detail.html HTTP/1.1" 200 8866
+INFO 2021-07-26 00:47:27,878 basehttp 154 "GET /static/prism/prism.css HTTP/1.1" 200 4033
+INFO 2021-07-26 00:47:27,902 basehttp 154 "GET /static/js/detail.js HTTP/1.1" 200 1294
+INFO 2021-07-26 00:47:27,929 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/prism/lib/prism/prism_patched.min.js HTTP/1.1" 200 99487
+INFO 2021-07-26 00:47:28,122 basehttp 154 "GET /static/ckeditor/ckeditor/lang/en.js?t=I3I8 HTTP/1.1" 200 19035
+INFO 2021-07-26 00:47:28,143 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/prism/plugin.js?t=I3I8 HTTP/1.1" 200 4333
+INFO 2021-07-26 00:47:28,164 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/codesnippet/plugin.js?t=I3I8 HTTP/1.1" 200 3824
+INFO 2021-07-26 00:47:28,183 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/codesnippet/lang/en.js?t=I3I8 HTTP/1.1" 200 369
+INFO 2021-07-26 00:47:28,241 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/codesnippet/icons/codesnippet.png?t=I3I8 HTTP/1.1" 200 597
+INFO 2021-07-26 00:47:28,249 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/prism/lib/prism/prism_patched.min.css HTTP/1.1" 200 2063
+WARNING 2021-07-26 00:47:29,089 log 228 Not Found: /templates/login.html
+WARNING 2021-07-26 00:47:29,091 basehttp 154 "GET /templates/login.html HTTP/1.1" 404 3189
+INFO 2021-07-26 00:47:32,090 basehttp 154 "GET /login/ HTTP/1.1" 200 3212
+INFO 2021-07-26 00:48:14,759 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-26 00:48:15,867 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-26 00:48:16,975 basehttp 154 "GET /login/ HTTP/1.1" 200 3212
+INFO 2021-07-26 00:48:22,473 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+ERROR 2021-07-26 00:48:22,474 basehttp 154 "POST /login/ HTTP/1.1" 500 59
+INFO 2021-07-26 00:48:22,706 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2021-07-26 00:48:22,715 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-26 00:48:24,318 basehttp 154 "GET /center/ HTTP/1.1" 200 4108
+INFO 2021-07-26 00:48:26,561 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2021-07-26 00:48:26,570 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-26 00:48:36,018 basehttp 154 "GET /center/ HTTP/1.1" 302 0
+INFO 2021-07-26 00:48:36,026 basehttp 154 "GET /login/?next=/center/ HTTP/1.1" 200 3212
+INFO 2021-07-27 12:56:19,034 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 12:56:22,586 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-27 12:56:22,705 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2021-07-27 12:56:27,153 basehttp 154 "GET /center/ HTTP/1.1" 302 0
+INFO 2021-07-27 12:56:27,183 basehttp 154 "GET /login/?next=/center/ HTTP/1.1" 200 3212
+INFO 2021-07-27 12:56:32,637 basehttp 154 "POST /login/?next=/center/ HTTP/1.1" 302 0
+WARNING 2021-07-27 12:56:33,877 log 228 Forbidden (CSRF token missing or incorrect.): /login/
+WARNING 2021-07-27 12:56:33,880 basehttp 154 "POST /login/?next=/center/ HTTP/1.1" 403 2513
+INFO 2021-07-27 12:57:37,970 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 12:57:41,202 basehttp 154 "GET /login/?next=/center/ HTTP/1.1" 200 3212
+INFO 2021-07-27 12:57:55,818 basehttp 154 "POST /login/?next=/center/ HTTP/1.1" 302 0
+INFO 2021-07-27 12:58:38,932 basehttp 154 "GET /center/ HTTP/1.1" 200 4167
+INFO 2021-07-27 12:58:59,845 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 13:00:20,861 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 13:00:23,338 basehttp 154 "GET /center/ HTTP/1.1" 200 4167
+INFO 2021-07-27 13:00:56,976 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 13:00:59,268 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-27 13:01:02,562 basehttp 154 "GET /static/write_blog.html HTTP/1.1" 200 5761
+INFO 2021-07-27 13:01:05,703 basehttp 154 "GET /center/ HTTP/1.1" 200 4167
+INFO 2021-07-27 13:01:11,822 basehttp 154 "GET /center/ HTTP/1.1" 200 4167
+INFO 2021-07-27 13:05:42,686 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 13:05:45,952 basehttp 154 "GET /static/write_blog.html HTTP/1.1" 304 0
+WARNING 2021-07-27 13:05:48,275 log 228 Not Found: /templates/center.html
+WARNING 2021-07-27 13:05:48,276 basehttp 154 "GET /templates/center.html HTTP/1.1" 404 3192
+WARNING 2021-07-27 13:05:49,645 log 228 Not Found: /templates/center.html
+WARNING 2021-07-27 13:05:49,646 basehttp 154 "GET /templates/center.html HTTP/1.1" 404 3192
+WARNING 2021-07-27 13:05:50,097 log 228 Not Found: /templates/center.html
+WARNING 2021-07-27 13:05:50,098 basehttp 154 "GET /templates/center.html HTTP/1.1" 404 3192
+WARNING 2021-07-27 13:05:50,281 log 228 Not Found: /templates/center.html
+WARNING 2021-07-27 13:05:50,283 basehttp 154 "GET /templates/center.html HTTP/1.1" 404 3192
+WARNING 2021-07-27 13:05:50,460 log 228 Not Found: /templates/center.html
+WARNING 2021-07-27 13:05:50,461 basehttp 154 "GET /templates/center.html HTTP/1.1" 404 3192
+INFO 2021-07-27 13:05:54,236 basehttp 154 "GET /center/ HTTP/1.1" 200 4167
+WARNING 2021-07-27 13:05:56,736 log 228 Forbidden (CSRF token missing or incorrect.): /center/
+WARNING 2021-07-27 13:05:56,737 basehttp 154 "POST /center/ HTTP/1.1" 403 2513
+WARNING 2021-07-27 13:06:01,291 log 228 Forbidden (CSRF token missing or incorrect.): /center/
+WARNING 2021-07-27 13:06:01,292 basehttp 154 "POST /center/ HTTP/1.1" 403 2513
+WARNING 2021-07-27 13:06:03,549 log 228 Forbidden (CSRF token missing or incorrect.): /center/
+WARNING 2021-07-27 13:06:03,550 basehttp 154 "POST /center/ HTTP/1.1" 403 2513
+INFO 2021-07-27 13:09:50,019 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 13:09:53,265 basehttp 154 "GET /center/ HTTP/1.1" 200 4305
+INFO 2021-07-27 13:09:54,748 basehttp 154 "POST /center/ HTTP/1.1" 302 0
+INFO 2021-07-27 13:09:54,768 basehttp 154 "GET /center/ HTTP/1.1" 200 4305
+INFO 2021-07-27 13:10:34,664 basehttp 154 "POST /center/ HTTP/1.1" 302 0
+INFO 2021-07-27 13:10:34,685 basehttp 154 "GET /center/ HTTP/1.1" 200 4381
+INFO 2021-07-27 13:10:34,725 basehttp 154 "GET /media/avatar/20210727/70754841_551411525406374_2742282332722285701_n.jpg HTTP/1.1" 200 58190
+INFO 2021-07-27 13:10:40,205 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2021-07-27 13:10:41,798 basehttp 154 "GET /center/ HTTP/1.1" 200 4381
+INFO 2021-07-27 13:10:41,820 basehttp 154 "GET /media/avatar/20210727/70754841_551411525406374_2742282332722285701_n.jpg HTTP/1.1" 304 0
+INFO 2021-07-27 13:12:13,752 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 13:12:17,004 basehttp 154 "GET /center/ HTTP/1.1" 200 4371
+INFO 2021-07-27 13:12:17,026 basehttp 154 "GET /media/avatar/20210727/70754841_551411525406374_2742282332722285701_n.jpg HTTP/1.1" 304 0
+INFO 2021-07-27 13:12:18,231 basehttp 154 "GET / HTTP/1.1" 200 11940
+WARNING 2021-07-27 13:12:18,478 log 228 Not Found: /index.html
+WARNING 2021-07-27 13:12:18,479 basehttp 154 "GET /index.html HTTP/1.1" 404 3460
+WARNING 2021-07-27 13:12:19,772 log 228 Not Found: /index.html
+WARNING 2021-07-27 13:12:19,773 basehttp 154 "GET /index.html HTTP/1.1" 404 3460
+WARNING 2021-07-27 13:12:20,155 log 228 Not Found: /index.html
+WARNING 2021-07-27 13:12:20,156 basehttp 154 "GET /index.html HTTP/1.1" 404 3460
+WARNING 2021-07-27 13:12:20,327 log 228 Not Found: /index.html
+WARNING 2021-07-27 13:12:20,328 basehttp 154 "GET /index.html HTTP/1.1" 404 3460
+WARNING 2021-07-27 13:12:20,473 log 228 Not Found: /index.html
+WARNING 2021-07-27 13:12:20,475 basehttp 154 "GET /index.html HTTP/1.1" 404 3460
+INFO 2021-07-27 13:12:21,671 basehttp 154 "GET / HTTP/1.1" 200 11940
+INFO 2021-07-27 13:12:22,134 basehttp 154 "GET / HTTP/1.1" 200 11940
+INFO 2021-07-27 13:12:22,305 basehttp 154 "GET / HTTP/1.1" 200 11940
+WARNING 2021-07-27 13:12:24,572 log 228 Not Found: /write_blog.html
+WARNING 2021-07-27 13:12:24,573 basehttp 154 "GET /write_blog.html HTTP/1.1" 404 3475
+INFO 2021-07-27 13:13:20,646 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 13:13:24,850 basehttp 154 "GET /center/ HTTP/1.1" 200 4371
+INFO 2021-07-27 13:13:24,874 basehttp 154 "GET /media/avatar/20210727/70754841_551411525406374_2742282332722285701_n.jpg HTTP/1.1" 304 0
+WARNING 2021-07-27 13:13:26,512 log 228 Not Found: /center/write_blog.html
+WARNING 2021-07-27 13:13:26,513 basehttp 154 "GET /center/write_blog.html HTTP/1.1" 404 3496
+INFO 2021-07-27 13:13:30,095 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 13:13:31,979 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5682
+WARNING 2021-07-27 13:13:32,073 log 228 Not Found: /writeblog/ckeditor/ckeditor/config.js
+WARNING 2021-07-27 13:13:32,074 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3548
+WARNING 2021-07-27 13:13:32,095 log 228 Not Found: /writeblog/ckeditor/ckeditor/lang/zh-cn.js
+WARNING 2021-07-27 13:13:32,098 log 228 Not Found: /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2021-07-27 13:13:32,100 basehttp 154 "GET /writeblog/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 404 3560
+WARNING 2021-07-27 13:13:32,100 basehttp 154 "GET /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3602
+INFO 2021-07-27 13:46:46,833 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 13:46:52,747 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2021-07-27 13:46:56,669 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1963
+INFO 2021-07-27 13:46:56,719 basehttp 154 "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+INFO 2021-07-27 13:47:06,937 basehttp 154 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2021-07-27 13:47:06,982 basehttp 154 "GET /admin/ HTTP/1.1" 200 3297
+INFO 2021-07-27 13:47:07,018 basehttp 154 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+INFO 2021-07-27 13:47:07,038 basehttp 154 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2021-07-27 13:47:07,038 basehttp 154 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2021-07-27 13:47:09,889 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 3221
+INFO 2021-07-27 13:47:09,936 basehttp 154 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+INFO 2021-07-27 13:47:09,944 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 13:47:09,948 basehttp 154 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+INFO 2021-07-27 13:47:09,954 basehttp 154 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6918
+INFO 2021-07-27 13:47:09,956 basehttp 154 "GET /static/admin/js/actions.js HTTP/1.1" 200 6538
+INFO 2021-07-27 13:47:09,958 basehttp 154 "GET /static/admin/js/core.js HTTP/1.1" 200 7135
+INFO 2021-07-27 13:47:09,995 basehttp 154 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2021-07-27 13:47:18,719 basehttp 154 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 5039
+INFO 2021-07-27 13:47:18,758 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 13:47:18,765 basehttp 154 "GET /static/admin/css/forms.css HTTP/1.1" 200 8518
+INFO 2021-07-27 13:47:18,769 basehttp 154 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+INFO 2021-07-27 13:47:18,769 basehttp 154 "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+INFO 2021-07-27 13:47:18,774 basehttp 154 "GET /static/admin/js/calendar.js HTTP/1.1" 200 7777
+INFO 2021-07-27 13:47:18,777 basehttp 154 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 20274
+INFO 2021-07-27 13:47:18,785 basehttp 154 "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+INFO 2021-07-27 13:47:18,840 basehttp 154 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2021-07-27 13:47:18,840 basehttp 154 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2021-07-27 13:47:22,932 basehttp 154 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2021-07-27 13:47:22,988 basehttp 154 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 5272
+INFO 2021-07-27 13:47:23,016 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 13:47:23,048 basehttp 154 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2021-07-27 13:47:25,129 basehttp 154 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2021-07-27 13:47:25,190 basehttp 154 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 5271
+INFO 2021-07-27 13:47:25,219 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 13:47:30,883 basehttp 154 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2021-07-27 13:47:30,940 basehttp 154 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 5278
+INFO 2021-07-27 13:47:30,980 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 13:47:37,252 basehttp 154 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2021-07-27 13:47:37,309 basehttp 154 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 5274
+INFO 2021-07-27 13:47:37,341 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 13:47:40,591 basehttp 154 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2021-07-27 13:47:40,646 basehttp 154 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 5270
+INFO 2021-07-27 13:47:40,674 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 13:47:42,639 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5306
+INFO 2021-07-27 13:47:42,668 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 13:50:31,578 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 13:50:36,618 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 13:50:37,986 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 13:50:38,516 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 13:50:38,916 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 13:50:46,987 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5812
+WARNING 2021-07-27 13:50:47,080 log 228 Not Found: /writeblog/ckeditor/ckeditor/config.js
+WARNING 2021-07-27 13:50:47,081 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3548
+WARNING 2021-07-27 13:50:47,101 log 228 Not Found: /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2021-07-27 13:50:47,104 log 228 Not Found: /writeblog/ckeditor/ckeditor/lang/zh-cn.js
+WARNING 2021-07-27 13:50:47,105 basehttp 154 "GET /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3602
+WARNING 2021-07-27 13:50:47,105 basehttp 154 "GET /writeblog/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 404 3560
+INFO 2021-07-27 13:53:16,083 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 13:53:19,578 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5306
+INFO 2021-07-27 13:53:19,610 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+WARNING 2021-07-27 13:53:20,265 base 102 Method Not Allowed (GET): /writeblog/
+WARNING 2021-07-27 13:53:20,268 log 228 Method Not Allowed: /writeblog/
+WARNING 2021-07-27 13:53:20,269 basehttp 154 "GET /writeblog/ HTTP/1.1" 405 0
+WARNING 2021-07-27 13:53:21,070 base 102 Method Not Allowed (GET): /writeblog/
+WARNING 2021-07-27 13:53:21,073 log 228 Method Not Allowed: /writeblog/
+WARNING 2021-07-27 13:53:21,074 basehttp 154 "GET /writeblog/ HTTP/1.1" 405 0
+WARNING 2021-07-27 13:53:21,739 base 102 Method Not Allowed (GET): /writeblog/
+WARNING 2021-07-27 13:53:21,741 log 228 Method Not Allowed: /writeblog/
+WARNING 2021-07-27 13:53:21,742 basehttp 154 "GET /writeblog/ HTTP/1.1" 405 0
+WARNING 2021-07-27 13:53:22,069 base 102 Method Not Allowed (GET): /writeblog/
+WARNING 2021-07-27 13:53:22,071 log 228 Method Not Allowed: /writeblog/
+WARNING 2021-07-27 13:53:22,072 basehttp 154 "GET /writeblog/ HTTP/1.1" 405 0
+WARNING 2021-07-27 13:53:22,411 base 102 Method Not Allowed (GET): /writeblog/
+WARNING 2021-07-27 13:53:22,414 log 228 Method Not Allowed: /writeblog/
+WARNING 2021-07-27 13:53:22,415 basehttp 154 "GET /writeblog/ HTTP/1.1" 405 0
+INFO 2021-07-27 13:53:32,620 basehttp 154 "GET / HTTP/1.1" 200 11936
+WARNING 2021-07-27 13:53:36,354 base 102 Method Not Allowed (GET): /writeblog/
+WARNING 2021-07-27 13:53:36,356 log 228 Method Not Allowed: /writeblog/
+WARNING 2021-07-27 13:53:36,357 basehttp 154 "GET /writeblog/ HTTP/1.1" 405 0
+INFO 2021-07-27 13:55:00,382 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 13:55:03,312 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5812
+WARNING 2021-07-27 13:55:03,530 log 228 Not Found: /writeblog/ckeditor/ckeditor/config.js
+WARNING 2021-07-27 13:55:03,532 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3548
+WARNING 2021-07-27 13:55:03,554 log 228 Not Found: /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2021-07-27 13:55:03,557 log 228 Not Found: /writeblog/ckeditor/ckeditor/lang/zh-cn.js
+WARNING 2021-07-27 13:55:03,558 basehttp 154 "GET /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3602
+WARNING 2021-07-27 13:55:03,558 basehttp 154 "GET /writeblog/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 404 3560
+WARNING 2021-07-27 13:55:06,649 log 228 Not Found: /writeblog/index.html
+WARNING 2021-07-27 13:55:06,650 basehttp 154 "GET /writeblog/index.html HTTP/1.1" 404 3490
+WARNING 2021-07-27 13:55:07,856 log 228 Not Found: /writeblog/ckeditor/ckeditor/config.js
+WARNING 2021-07-27 13:55:07,857 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3548
+WARNING 2021-07-27 13:55:07,874 log 228 Not Found: /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2021-07-27 13:55:07,876 log 228 Not Found: /writeblog/ckeditor/ckeditor/lang/zh-cn.js
+WARNING 2021-07-27 13:55:07,878 basehttp 154 "GET /writeblog/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 404 3560
+WARNING 2021-07-27 13:55:07,878 basehttp 154 "GET /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3602
+WARNING 2021-07-27 13:55:27,711 log 228 Forbidden (CSRF token missing or incorrect.): /writeblog/
+WARNING 2021-07-27 13:55:27,713 basehttp 154 "POST /writeblog/ HTTP/1.1" 403 2508
+INFO 2021-07-27 13:56:05,296 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-07-27 13:56:08,012 log 228 Forbidden (CSRF token missing or incorrect.): /writeblog/
+WARNING 2021-07-27 13:56:08,013 basehttp 154 "POST /writeblog/ HTTP/1.1" 403 2508
+WARNING 2021-07-27 13:56:09,239 log 228 Not Found: /writeblog/ckeditor/ckeditor/config.js
+WARNING 2021-07-27 13:56:09,241 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3548
+WARNING 2021-07-27 13:56:09,259 log 228 Not Found: /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2021-07-27 13:56:09,261 log 228 Not Found: /writeblog/ckeditor/ckeditor/lang/zh-cn.js
+WARNING 2021-07-27 13:56:09,262 basehttp 154 "GET /writeblog/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 404 3560
+WARNING 2021-07-27 13:56:09,263 basehttp 154 "GET /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3602
+WARNING 2021-07-27 13:56:10,351 log 228 Forbidden (CSRF token missing or incorrect.): /writeblog/
+WARNING 2021-07-27 13:56:10,352 basehttp 154 "POST /writeblog/ HTTP/1.1" 403 2508
+WARNING 2021-07-27 13:56:13,751 log 228 Forbidden (CSRF token missing or incorrect.): /writeblog/
+WARNING 2021-07-27 13:56:13,752 basehttp 154 "POST /writeblog/ HTTP/1.1" 403 2508
+WARNING 2021-07-27 13:56:13,784 log 228 Not Found: /favicon.ico
+WARNING 2021-07-27 13:56:13,785 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3463
+INFO 2021-07-27 13:56:17,066 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 13:56:19,362 basehttp 154 "GET /center/ HTTP/1.1" 200 4286
+WARNING 2021-07-27 13:56:24,622 log 228 Not Found: /center/write_blog.html
+WARNING 2021-07-27 13:56:24,624 basehttp 154 "GET /center/write_blog.html HTTP/1.1" 404 3496
+INFO 2021-07-27 13:56:29,200 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 13:56:30,906 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5946
+WARNING 2021-07-27 13:56:31,000 log 228 Not Found: /writeblog/ckeditor/ckeditor/config.js
+WARNING 2021-07-27 13:56:31,002 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3548
+WARNING 2021-07-27 13:56:31,020 log 228 Not Found: /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2021-07-27 13:56:31,022 log 228 Not Found: /writeblog/ckeditor/ckeditor/lang/zh-cn.js
+WARNING 2021-07-27 13:56:31,023 basehttp 154 "GET /writeblog/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 404 3560
+WARNING 2021-07-27 13:56:31,023 basehttp 154 "GET /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3602
+WARNING 2021-07-27 13:56:39,025 log 228 Bad Request: /writeblog/
+WARNING 2021-07-27 13:56:39,026 basehttp 154 "POST /writeblog/ HTTP/1.1" 400 12
+WARNING 2021-07-27 13:56:43,777 log 228 Not Found: /writeblog/ckeditor/ckeditor/config.js
+WARNING 2021-07-27 13:56:43,779 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3548
+WARNING 2021-07-27 13:56:43,803 log 228 Not Found: /writeblog/ckeditor/ckeditor/lang/zh-cn.js
+WARNING 2021-07-27 13:56:43,806 log 228 Not Found: /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2021-07-27 13:56:43,806 basehttp 154 "GET /writeblog/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 404 3560
+WARNING 2021-07-27 13:56:43,807 basehttp 154 "GET /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3602
+INFO 2021-07-27 14:00:49,862 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 14:00:52,296 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5945
+WARNING 2021-07-27 14:00:52,373 log 228 Not Found: /writeblog/ckeditor/ckeditor/config.js
+WARNING 2021-07-27 14:00:52,374 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3548
+WARNING 2021-07-27 14:00:52,393 log 228 Not Found: /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2021-07-27 14:00:52,395 log 228 Not Found: /writeblog/ckeditor/ckeditor/lang/zh-cn.js
+WARNING 2021-07-27 14:00:52,397 basehttp 154 "GET /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3602
+WARNING 2021-07-27 14:00:52,397 basehttp 154 "GET /writeblog/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 404 3560
+INFO 2021-07-27 14:00:53,150 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5945
+WARNING 2021-07-27 14:00:53,218 log 228 Not Found: /writeblog/ckeditor/ckeditor/config.js
+WARNING 2021-07-27 14:00:53,220 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3548
+WARNING 2021-07-27 14:00:53,235 log 228 Not Found: /writeblog/ckeditor/ckeditor/lang/zh-cn.js
+WARNING 2021-07-27 14:00:53,237 log 228 Not Found: /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2021-07-27 14:00:53,239 basehttp 154 "GET /writeblog/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 404 3560
+WARNING 2021-07-27 14:00:53,239 basehttp 154 "GET /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3602
+INFO 2021-07-27 14:00:53,610 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5945
+WARNING 2021-07-27 14:00:53,671 log 228 Not Found: /writeblog/ckeditor/ckeditor/config.js
+WARNING 2021-07-27 14:00:53,672 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3548
+WARNING 2021-07-27 14:00:53,686 log 228 Not Found: /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2021-07-27 14:00:53,688 log 228 Not Found: /writeblog/ckeditor/ckeditor/lang/zh-cn.js
+WARNING 2021-07-27 14:00:53,690 basehttp 154 "GET /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3602
+WARNING 2021-07-27 14:00:53,690 basehttp 154 "GET /writeblog/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 404 3560
+INFO 2021-07-27 14:00:53,778 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5945
+WARNING 2021-07-27 14:00:53,844 log 228 Not Found: /writeblog/ckeditor/ckeditor/config.js
+WARNING 2021-07-27 14:00:53,845 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3548
+WARNING 2021-07-27 14:00:53,862 log 228 Not Found: /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2021-07-27 14:00:53,864 log 228 Not Found: /writeblog/ckeditor/ckeditor/lang/zh-cn.js
+WARNING 2021-07-27 14:00:53,865 basehttp 154 "GET /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3602
+WARNING 2021-07-27 14:00:53,865 basehttp 154 "GET /writeblog/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 404 3560
+INFO 2021-07-27 14:00:54,107 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5945
+WARNING 2021-07-27 14:00:54,175 log 228 Not Found: /writeblog/ckeditor/ckeditor/config.js
+WARNING 2021-07-27 14:00:54,176 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3548
+WARNING 2021-07-27 14:00:54,193 log 228 Not Found: /writeblog/ckeditor/ckeditor/lang/zh-cn.js
+WARNING 2021-07-27 14:00:54,195 log 228 Not Found: /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2021-07-27 14:00:54,196 basehttp 154 "GET /writeblog/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 404 3560
+WARNING 2021-07-27 14:00:54,197 basehttp 154 "GET /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3602
+INFO 2021-07-27 14:00:54,299 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5945
+WARNING 2021-07-27 14:00:54,364 log 228 Not Found: /writeblog/ckeditor/ckeditor/config.js
+WARNING 2021-07-27 14:00:54,366 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3548
+WARNING 2021-07-27 14:00:54,381 log 228 Not Found: /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2021-07-27 14:00:54,385 log 228 Not Found: /writeblog/ckeditor/ckeditor/lang/zh-cn.js
+WARNING 2021-07-27 14:00:54,386 basehttp 154 "GET /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3602
+WARNING 2021-07-27 14:00:54,386 basehttp 154 "GET /writeblog/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 404 3560
+INFO 2021-07-27 14:01:01,373 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5945
+INFO 2021-07-27 14:01:01,412 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2021-07-27 14:01:01,422 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-27 14:01:01,431 basehttp 154 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 200 2039
+INFO 2021-07-27 14:01:01,442 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-27 14:01:01,446 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-27 14:01:01,446 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-27 14:01:01,453 basehttp 154 "GET /static/js/write_blog.js HTTP/1.1" 200 521
+INFO 2021-07-27 14:01:01,495 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-07-27 14:01:01,833 basehttp 154 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 200 690627
+WARNING 2021-07-27 14:01:01,954 log 228 Not Found: /favicon.ico
+WARNING 2021-07-27 14:01:01,956 log 228 Not Found: /writeblog/ckeditor/ckeditor/config.js
+WARNING 2021-07-27 14:01:01,958 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3463
+WARNING 2021-07-27 14:01:01,958 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3548
+WARNING 2021-07-27 14:01:01,976 log 228 Not Found: /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2021-07-27 14:01:01,978 log 228 Not Found: /writeblog/ckeditor/ckeditor/lang/zh-cn.js
+WARNING 2021-07-27 14:01:01,979 basehttp 154 "GET /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3602
+WARNING 2021-07-27 14:01:01,979 basehttp 154 "GET /writeblog/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 404 3560
+WARNING 2021-07-27 14:01:05,021 log 228 Not Found: /writeblog/index.html
+WARNING 2021-07-27 14:01:05,023 basehttp 154 "GET /writeblog/index.html HTTP/1.1" 404 3490
+WARNING 2021-07-27 14:01:07,395 log 228 Not Found: /writeblog/ckeditor/ckeditor/config.js
+WARNING 2021-07-27 14:01:07,397 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3548
+ERROR 2021-07-27 14:01:07,399 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 500 59
+INFO 2021-07-27 14:01:13,499 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5945
+WARNING 2021-07-27 14:01:13,579 log 228 Not Found: /writeblog/ckeditor/ckeditor/config.js
+WARNING 2021-07-27 14:01:13,581 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3548
+WARNING 2021-07-27 14:01:13,602 log 228 Not Found: /writeblog/ckeditor/ckeditor/lang/zh-cn.js
+WARNING 2021-07-27 14:01:13,604 log 228 Not Found: /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2021-07-27 14:01:13,605 basehttp 154 "GET /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3602
+WARNING 2021-07-27 14:01:13,606 basehttp 154 "GET /writeblog/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 404 3560
+INFO 2021-07-27 14:02:27,702 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 14:02:44,605 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5933
+INFO 2021-07-27 14:03:18,380 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 14:03:21,935 basehttp 154 "POST /writeblog/ HTTP/1.1" 302 0
+INFO 2021-07-27 14:03:21,953 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 14:03:24,536 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5933
+INFO 2021-07-27 14:03:36,754 basehttp 154 "POST /writeblog/ HTTP/1.1" 302 0
+INFO 2021-07-27 14:03:36,765 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 14:03:39,109 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 14:03:41,862 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 14:03:43,615 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 14:03:44,921 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 14:03:46,103 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 14:03:47,283 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 14:03:49,453 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 14:03:52,199 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 14:03:54,799 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 14:03:56,276 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2021-07-27 14:04:00,291 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5306
+INFO 2021-07-27 14:04:00,321 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 14:04:02,508 basehttp 154 "GET /admin/home/articlecategory/1/change/ HTTP/1.1" 200 5250
+INFO 2021-07-27 14:04:02,541 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 14:04:04,529 basehttp 154 "GET /admin/ HTTP/1.1" 200 4812
+INFO 2021-07-27 14:04:07,296 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5306
+INFO 2021-07-27 14:04:07,325 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 14:11:28,443 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 14:11:31,065 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:11:31,711 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:11:31,881 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:11:32,055 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:11:32,211 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:11:32,385 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:11:33,279 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:11:33,312 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2021-07-27 14:11:33,324 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-27 14:11:33,329 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-27 14:11:33,336 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-27 14:11:33,336 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2021-07-27 14:11:33,337 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2021-07-27 14:11:33,341 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-27 14:11:33,352 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-07-27 14:11:33,360 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2021-07-27 14:11:33,361 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2021-07-27 14:11:33,397 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+WARNING 2021-07-27 14:11:33,811 log 228 Not Found: /favicon.ico
+WARNING 2021-07-27 14:11:33,813 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3463
+INFO 2021-07-27 14:11:35,818 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5306
+INFO 2021-07-27 14:11:35,848 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 14:11:36,750 basehttp 154 "GET /admin/ HTTP/1.1" 200 4812
+INFO 2021-07-27 14:11:40,246 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5306
+INFO 2021-07-27 14:11:40,274 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 14:11:44,575 basehttp 154 "GET /admin/ HTTP/1.1" 200 4812
+INFO 2021-07-27 14:11:49,486 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5933
+INFO 2021-07-27 14:11:59,493 basehttp 154 "POST /writeblog/ HTTP/1.1" 302 0
+INFO 2021-07-27 14:11:59,502 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:12:00,893 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:12:01,220 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:12:01,395 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:12:01,566 basehttp 154 "GET / HTTP/1.1" 200 3685
+WARNING 2021-07-27 14:12:02,083 log 228 Not Found: /index.html
+WARNING 2021-07-27 14:12:02,084 basehttp 154 "GET /index.html HTTP/1.1" 404 3460
+INFO 2021-07-27 14:12:03,548 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5933
+INFO 2021-07-27 14:12:06,978 basehttp 154 "GET /admin/ HTTP/1.1" 200 4812
+INFO 2021-07-27 14:12:07,396 basehttp 154 "GET /admin/ HTTP/1.1" 200 4812
+INFO 2021-07-27 14:12:12,382 basehttp 154 "GET /admin/home/articlecategory/1/change/ HTTP/1.1" 200 5250
+INFO 2021-07-27 14:12:12,417 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 14:12:15,010 basehttp 154 "GET /admin/ HTTP/1.1" 200 4812
+INFO 2021-07-27 14:13:47,916 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:13:48,249 basehttp 154 "GET / HTTP/1.1" 200 3685
+WARNING 2021-07-27 14:13:49,103 log 228 Not Found: /index.html
+WARNING 2021-07-27 14:13:49,105 basehttp 154 "GET /index.html HTTP/1.1" 404 3460
+INFO 2021-07-27 14:15:45,512 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 14:15:49,694 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2021-07-27 14:15:49,712 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:15:50,467 basehttp 154 "GET /login/ HTTP/1.1" 200 3212
+INFO 2021-07-27 14:15:59,862 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2021-07-27 14:15:59,872 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:16:02,595 basehttp 154 "GET /center/ HTTP/1.1" 200 4286
+INFO 2021-07-27 14:16:09,123 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2021-07-27 14:16:09,131 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:16:09,644 basehttp 154 "GET /login/ HTTP/1.1" 200 3212
+INFO 2021-07-27 14:16:15,152 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2021-07-27 14:16:15,162 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:16:17,393 basehttp 154 "GET /center/ HTTP/1.1" 200 4371
+INFO 2021-07-27 14:16:17,419 basehttp 154 "GET /media/avatar/20210727/70754841_551411525406374_2742282332722285701_n.jpg HTTP/1.1" 304 0
+INFO 2021-07-27 14:16:19,311 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2021-07-27 14:16:19,319 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:16:19,913 basehttp 154 "GET /login/ HTTP/1.1" 200 3212
+INFO 2021-07-27 14:16:25,823 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2021-07-27 14:16:25,832 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:17:24,726 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:17:25,136 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:17:25,458 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:17:25,665 basehttp 154 "GET / HTTP/1.1" 200 3685
+INFO 2021-07-27 14:17:54,112 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 14:17:56,198 basehttp 154 "GET / HTTP/1.1" 200 3686
+INFO 2021-07-27 14:17:56,698 basehttp 154 "GET / HTTP/1.1" 200 3686
+INFO 2021-07-27 14:17:56,863 basehttp 154 "GET / HTTP/1.1" 200 3686
+INFO 2021-07-27 14:17:57,618 basehttp 154 "GET / HTTP/1.1" 200 3686
+INFO 2021-07-27 14:17:57,655 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2021-07-27 14:17:57,659 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2021-07-27 14:17:57,660 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2021-07-27 14:17:57,661 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-27 14:17:57,670 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-27 14:17:57,671 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-27 14:17:57,673 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-27 14:17:57,674 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2021-07-27 14:17:57,678 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2021-07-27 14:17:57,680 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-07-27 14:17:57,681 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+WARNING 2021-07-27 14:17:58,164 log 228 Not Found: /favicon.ico
+WARNING 2021-07-27 14:17:58,165 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3463
+INFO 2021-07-27 14:18:10,346 basehttp 154 "GET / HTTP/1.1" 200 3686
+INFO 2021-07-27 14:18:41,970 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 14:18:43,302 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:18:45,510 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:18:45,687 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:18:45,855 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:18:50,470 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:20:29,862 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 14:20:32,765 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:20:34,274 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:20:34,553 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:20:34,772 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:20:35,672 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:20:36,045 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:20:36,762 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:20:36,933 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:20:37,101 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:20:37,275 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:20:37,449 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:20:39,036 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:21:39,002 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 14:21:40,885 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5306
+INFO 2021-07-27 14:21:40,949 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 14:21:45,368 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:21:50,729 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5306
+INFO 2021-07-27 14:21:50,930 basehttp 154 "GET /admin/ HTTP/1.1" 200 4812
+INFO 2021-07-27 14:21:52,022 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5306
+INFO 2021-07-27 14:21:57,220 basehttp 154 "GET /admin/home/articlecategory/5/change/ HTTP/1.1" 200 5246
+INFO 2021-07-27 14:21:57,258 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 14:21:59,685 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5306
+INFO 2021-07-27 14:26:57,292 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 14:26:59,213 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:27:01,631 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:27:01,847 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:27:03,239 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:27:04,765 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:27:05,017 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:27:10,236 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5933
+INFO 2021-07-27 14:27:13,936 basehttp 154 "GET /center/ HTTP/1.1" 200 4286
+INFO 2021-07-27 14:29:12,728 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 14:29:24,370 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:29:42,385 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:29:42,528 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:29:42,896 basehttp 154 "GET / HTTP/1.1" 200 3673
+WARNING 2021-07-27 14:29:52,953 log 228 Not Found: /index/
+WARNING 2021-07-27 14:29:52,954 basehttp 154 "GET /index/ HTTP/1.1" 404 3448
+INFO 2021-07-27 14:31:12,900 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 14:31:17,790 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:31:20,124 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5933
+INFO 2021-07-27 14:48:15,636 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 14:48:17,809 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:48:21,045 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5933
+INFO 2021-07-27 14:55:55,413 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 14:55:56,729 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:55:58,131 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:55:58,398 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:55:58,714 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:55:58,930 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:57:25,840 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 14:57:27,788 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:57:29,918 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5933
+INFO 2021-07-27 14:57:46,483 basehttp 154 "POST /writeblog/ HTTP/1.1" 302 0
+INFO 2021-07-27 14:57:46,495 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:59:19,365 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 14:59:21,553 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:59:23,027 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:59:23,098 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2021-07-27 14:59:23,100 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2021-07-27 14:59:23,101 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2021-07-27 14:59:23,112 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-27 14:59:23,117 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-27 14:59:23,122 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-27 14:59:23,132 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-27 14:59:23,139 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2021-07-27 14:59:23,142 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2021-07-27 14:59:23,145 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2021-07-27 14:59:23,145 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-07-27 14:59:23,165 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:59:23,212 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2021-07-27 14:59:23,214 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2021-07-27 14:59:23,215 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2021-07-27 14:59:23,219 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-27 14:59:23,233 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-27 14:59:23,238 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2021-07-27 14:59:23,242 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2021-07-27 14:59:23,244 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2021-07-27 14:59:23,244 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-27 14:59:23,247 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-27 14:59:23,257 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-07-27 14:59:23,273 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:59:23,316 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2021-07-27 14:59:23,319 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2021-07-27 14:59:23,320 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2021-07-27 14:59:23,325 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-27 14:59:23,334 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-27 14:59:23,336 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-27 14:59:23,338 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-27 14:59:23,340 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2021-07-27 14:59:23,350 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2021-07-27 14:59:23,352 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2021-07-27 14:59:23,367 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-07-27 14:59:23,382 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:59:23,423 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-27 14:59:23,424 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2021-07-27 14:59:23,424 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2021-07-27 14:59:23,425 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2021-07-27 14:59:23,436 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-27 14:59:23,443 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2021-07-27 14:59:23,444 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-27 14:59:23,445 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-27 14:59:23,447 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-07-27 14:59:23,449 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2021-07-27 14:59:23,450 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2021-07-27 14:59:23,509 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:59:23,557 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2021-07-27 14:59:23,560 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2021-07-27 14:59:23,560 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2021-07-27 14:59:23,562 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-27 14:59:23,576 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-27 14:59:23,578 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-27 14:59:23,579 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-27 14:59:23,579 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2021-07-27 14:59:23,588 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2021-07-27 14:59:23,591 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2021-07-27 14:59:23,598 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+WARNING 2021-07-27 14:59:23,801 log 228 Not Found: /favicon.ico
+WARNING 2021-07-27 14:59:23,802 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3463
+INFO 2021-07-27 14:59:36,095 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:59:36,166 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+WARNING 2021-07-27 14:59:36,821 log 228 Not Found: /favicon.ico
+WARNING 2021-07-27 14:59:36,823 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3463
+INFO 2021-07-27 14:59:40,551 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:59:41,133 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:59:44,924 basehttp 154 "GET /writeblog/ HTTP/1.1" 302 0
+INFO 2021-07-27 14:59:44,944 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 200 3212
+INFO 2021-07-27 14:59:45,037 basehttp 154 "GET /static/js/login.js HTTP/1.1" 200 677
+INFO 2021-07-27 14:59:48,992 basehttp 154 "GET / HTTP/1.1" 200 3673
+INFO 2021-07-27 14:59:52,167 basehttp 154 "GET /center/ HTTP/1.1" 302 0
+INFO 2021-07-27 14:59:52,188 basehttp 154 "GET /login/?next=/center/ HTTP/1.1" 200 3212
+INFO 2021-07-27 15:12:31,013 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 15:12:32,721 basehttp 154 "GET / HTTP/1.1" 200 4821
+INFO 2021-07-27 15:12:34,369 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 4821
+INFO 2021-07-27 15:12:34,900 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 4821
+INFO 2021-07-27 15:12:35,348 basehttp 154 "GET /?cat_id=4 HTTP/1.1" 200 4821
+INFO 2021-07-27 15:12:35,787 basehttp 154 "GET /?cat_id=5 HTTP/1.1" 200 4821
+INFO 2021-07-27 15:14:23,233 autoreload 578 Watching for file changes with StatReloader
+ERROR 2021-07-27 15:14:24,970 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog\home\views.py", line 50, in get
+    return render(request, 'index.html',context=context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\defaulttags.py", line 209, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\urls\resolvers.py", line 660, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'detail' not found. 'detail' is not a valid view function or pattern name.
+ERROR 2021-07-27 15:14:24,984 basehttp 154 "GET / HTTP/1.1" 500 159358
+ERROR 2021-07-27 15:14:48,445 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog\home\views.py", line 50, in get
+    return render(request, 'index.html',context=context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\defaulttags.py", line 209, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\urls\resolvers.py", line 660, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'detail' not found. 'detail' is not a valid view function or pattern name.
+ERROR 2021-07-27 15:14:48,453 basehttp 154 "GET / HTTP/1.1" 500 159358
+INFO 2021-07-27 15:15:33,978 autoreload 578 Watching for file changes with StatReloader
+ERROR 2021-07-27 15:15:35,484 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog\home\views.py", line 50, in get
+    return render(request, 'index.html',context=context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\defaulttags.py", line 209, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\urls\resolvers.py", line 660, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '#' not found. '#' is not a valid view function or pattern name.
+ERROR 2021-07-27 15:15:35,500 basehttp 154 "GET / HTTP/1.1" 500 158381
+INFO 2021-07-27 15:21:01,512 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 15:21:02,852 basehttp 154 "GET / HTTP/1.1" 200 9215
+INFO 2021-07-27 15:21:02,959 basehttp 154 "GET /media/article/20210727/72919936_2629325340480758_8136791431856904969_n_Q2kMX1f.jpg HTTP/1.1" 200 251721
+INFO 2021-07-27 15:21:02,962 basehttp 154 "GET /media/article/20210727/72919936_2629325340480758_8136791431856904969_n_etDs878.jpg HTTP/1.1" 200 251721
+INFO 2021-07-27 15:21:02,974 basehttp 154 "GET /media/article/20210727/72919936_2629325340480758_8136791431856904969_n.jpg HTTP/1.1" 200 251721
+INFO 2021-07-27 15:21:09,297 basehttp 154 "GET /detail/?id=2 HTTP/1.1" 200 7053
+ERROR 2021-07-27 15:21:11,782 log 228 Internal Server Error: /detail/
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\django_blog\home\views.py", line 65, in get
+    article=Article.objects.get(id=id)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\db\models\query.py", line 408, in get
+    self.model._meta.object_name
+home.models.Article.DoesNotExist: Article matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog\home\views.py", line 67, in get
+    return render(request,'404.html')
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: 404.html
+ERROR 2021-07-27 15:21:11,788 basehttp 154 "GET /detail/?cat_id=3 HTTP/1.1" 500 112361
+INFO 2021-07-27 15:21:20,000 basehttp 154 "GET / HTTP/1.1" 200 9215
+INFO 2021-07-27 15:21:21,945 basehttp 154 "GET / HTTP/1.1" 200 9215
+INFO 2021-07-27 15:21:22,806 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 9215
+INFO 2021-07-27 15:21:24,364 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 6283
+INFO 2021-07-27 15:21:24,405 basehttp 154 "GET /media/article/20210727/72410670_149760743055650_8816674040034089830_n.jpg HTTP/1.1" 200 221751
+INFO 2021-07-27 15:21:25,380 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 4825
+INFO 2021-07-27 15:21:26,376 basehttp 154 "GET /?cat_id=4 HTTP/1.1" 200 4825
+INFO 2021-07-27 15:21:27,309 basehttp 154 "GET /?cat_id=5 HTTP/1.1" 200 4825
+INFO 2021-07-27 15:21:28,347 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 9215
+INFO 2021-07-27 15:21:33,083 basehttp 154 "GET /detail/?id=3 HTTP/1.1" 200 7053
+ERROR 2021-07-27 15:21:35,719 log 228 Internal Server Error: /detail/
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\django_blog\home\views.py", line 65, in get
+    article=Article.objects.get(id=id)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\db\models\query.py", line 408, in get
+    self.model._meta.object_name
+home.models.Article.DoesNotExist: Article matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hui\Desktop\django_blog\home\views.py", line 67, in get
+    return render(request,'404.html')
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\hui\Desktop\django_blog_env\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: 404.html
+ERROR 2021-07-27 15:21:35,725 basehttp 154 "GET /detail/?cat_id=2 HTTP/1.1" 500 112361
+INFO 2021-07-27 15:24:04,768 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 15:24:06,337 basehttp 154 "GET / HTTP/1.1" 200 9215
+INFO 2021-07-27 15:24:08,304 basehttp 154 "GET /detail/?id=3 HTTP/1.1" 200 7053
+INFO 2021-07-27 15:24:11,166 basehttp 154 "GET /detail/?id=5 HTTP/1.1" 200 1149
+INFO 2021-07-27 15:24:11,210 basehttp 154 "GET /static/img/404.png HTTP/1.1" 200 107422
+INFO 2021-07-27 15:24:13,579 basehttp 154 "GET / HTTP/1.1" 200 9215
+INFO 2021-07-27 15:44:21,205 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 15:44:23,181 basehttp 154 "GET / HTTP/1.1" 200 9215
+INFO 2021-07-27 15:44:23,312 basehttp 154 "GET /media/article/20210727/72919936_2629325340480758_8136791431856904969_n_etDs878.jpg HTTP/1.1" 304 0
+INFO 2021-07-27 15:44:23,312 basehttp 154 "GET /media/article/20210727/72919936_2629325340480758_8136791431856904969_n_Q2kMX1f.jpg HTTP/1.1" 304 0
+INFO 2021-07-27 15:44:23,314 basehttp 154 "GET /media/article/20210727/72919936_2629325340480758_8136791431856904969_n.jpg HTTP/1.1" 304 0
+INFO 2021-07-27 15:44:29,526 basehttp 154 "GET /detail/?id=3 HTTP/1.1" 200 7467
+INFO 2021-07-27 15:44:32,981 basehttp 154 "GET /detail/?id=4 HTTP/1.1" 200 7469
+INFO 2021-07-27 15:44:34,024 basehttp 154 "GET /detail/?id=2 HTTP/1.1" 200 7467
+INFO 2021-07-27 15:44:34,594 basehttp 154 "GET /detail/?id=3 HTTP/1.1" 200 7467
+INFO 2021-07-27 15:44:35,033 basehttp 154 "GET /detail/?id=4 HTTP/1.1" 200 7469
+INFO 2021-07-27 15:44:35,992 basehttp 154 "GET /detail/?id=4 HTTP/1.1" 200 7469
+INFO 2021-07-27 15:44:37,176 basehttp 154 "GET /detail/?id=4 HTTP/1.1" 200 7469
+INFO 2021-07-27 15:44:39,744 basehttp 154 "GET /detail/?id=3 HTTP/1.1" 200 7467
+INFO 2021-07-27 15:59:04,007 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 15:59:10,875 basehttp 154 "GET / HTTP/1.1" 200 9215
+INFO 2021-07-27 15:59:10,953 basehttp 154 "GET /media/article/20210727/72919936_2629325340480758_8136791431856904969_n_etDs878.jpg HTTP/1.1" 304 0
+INFO 2021-07-27 15:59:10,955 basehttp 154 "GET /media/article/20210727/72919936_2629325340480758_8136791431856904969_n_Q2kMX1f.jpg HTTP/1.1" 304 0
+INFO 2021-07-27 15:59:10,961 basehttp 154 "GET /media/article/20210727/72919936_2629325340480758_8136791431856904969_n.jpg HTTP/1.1" 304 0
+INFO 2021-07-27 15:59:12,418 basehttp 154 "GET /detail/?id=3 HTTP/1.1" 200 7467
+INFO 2021-07-27 15:59:13,895 basehttp 154 "GET /detail/?id=4 HTTP/1.1" 200 7469
+INFO 2021-07-27 15:59:19,629 basehttp 154 "POST /detail/?id=4 HTTP/1.1" 302 0
+INFO 2021-07-27 15:59:19,666 basehttp 154 "GET /detail/?id=4 HTTP/1.1" 200 7469
+INFO 2021-07-27 15:59:27,061 basehttp 154 "GET /detail/?id=4 HTTP/1.1" 200 7469
+INFO 2021-07-27 16:00:09,022 basehttp 154 "GET /detail/?id=3 HTTP/1.1" 200 7467
+INFO 2021-07-27 16:00:12,245 basehttp 154 "GET /detail/?id=4 HTTP/1.1" 200 7469
+INFO 2021-07-27 16:09:06,528 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 16:09:07,376 basehttp 154 "GET /detail/?id=4 HTTP/1.1" 200 7926
+INFO 2021-07-27 16:09:51,108 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5306
+INFO 2021-07-27 16:09:51,163 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 16:09:52,078 basehttp 154 "GET /admin/ HTTP/1.1" 200 4812
+INFO 2021-07-27 16:09:53,106 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5306
+INFO 2021-07-27 16:09:53,154 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 16:09:54,852 basehttp 154 "GET /admin/home/articlecategory/2/change/ HTTP/1.1" 200 5248
+INFO 2021-07-27 16:09:54,902 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 16:09:55,923 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5306
+INFO 2021-07-27 16:10:23,211 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 16:10:24,427 basehttp 154 "GET / HTTP/1.1" 200 9215
+INFO 2021-07-27 16:10:24,517 basehttp 154 "GET /media/article/20210727/72919936_2629325340480758_8136791431856904969_n_Q2kMX1f.jpg HTTP/1.1" 304 0
+INFO 2021-07-27 16:10:25,918 basehttp 154 "GET / HTTP/1.1" 200 9215
+INFO 2021-07-27 16:10:28,267 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 9215
+INFO 2021-07-27 16:10:28,866 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 6283
+INFO 2021-07-27 16:10:28,890 basehttp 154 "GET /media/article/20210727/72410670_149760743055650_8816674040034089830_n.jpg HTTP/1.1" 304 0
+INFO 2021-07-27 16:10:29,630 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 4825
+INFO 2021-07-27 16:10:30,197 basehttp 154 "GET /?cat_id=4 HTTP/1.1" 200 4825
+INFO 2021-07-27 16:10:30,813 basehttp 154 "GET /?cat_id=5 HTTP/1.1" 200 4825
+INFO 2021-07-27 16:10:31,328 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 4825
+INFO 2021-07-27 16:10:31,642 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 6283
+INFO 2021-07-27 16:10:34,274 basehttp 154 "GET /admin/home/articlecategory/2/change/ HTTP/1.1" 200 5248
+INFO 2021-07-27 16:10:34,316 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 16:10:37,811 basehttp 154 "POST /admin/home/articlecategory/2/change/ HTTP/1.1" 302 0
+INFO 2021-07-27 16:10:37,890 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5482
+INFO 2021-07-27 16:10:37,922 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 16:10:39,108 basehttp 154 "GET /admin/home/articlecategory/3/change/ HTTP/1.1" 200 5262
+INFO 2021-07-27 16:10:39,139 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 16:10:45,667 basehttp 154 "POST /admin/home/articlecategory/3/change/ HTTP/1.1" 302 0
+INFO 2021-07-27 16:10:45,738 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5489
+INFO 2021-07-27 16:10:45,770 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 16:10:50,802 basehttp 154 "GET /admin/home/articlecategory/4/change/ HTTP/1.1" 200 5254
+INFO 2021-07-27 16:10:50,834 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 16:10:55,160 basehttp 154 "POST /admin/home/articlecategory/4/change/ HTTP/1.1" 302 0
+INFO 2021-07-27 16:10:55,238 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5485
+INFO 2021-07-27 16:10:55,280 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 16:10:56,662 basehttp 154 "GET /admin/home/articlecategory/5/change/ HTTP/1.1" 200 5246
+INFO 2021-07-27 16:10:56,694 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 16:10:59,115 basehttp 154 "POST /admin/home/articlecategory/5/change/ HTTP/1.1" 302 0
+INFO 2021-07-27 16:10:59,184 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5481
+INFO 2021-07-27 16:10:59,218 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 16:11:00,379 basehttp 154 "GET /admin/home/ HTTP/1.1" 200 2459
+INFO 2021-07-27 16:11:01,762 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5306
+INFO 2021-07-27 16:11:01,791 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-07-27 16:11:05,686 basehttp 154 "GET /admin/ HTTP/1.1" 200 6009
+INFO 2021-07-27 16:11:08,159 basehttp 154 "GET /detail/?id=4 HTTP/1.1" 200 7927
+INFO 2021-07-27 16:11:10,815 basehttp 154 "GET /detail/?cat_id=1 HTTP/1.1" 200 1149
+WARNING 2021-07-27 16:11:13,023 log 228 Not Found: /detail/index.html
+WARNING 2021-07-27 16:11:13,024 basehttp 154 "GET /detail/index.html HTTP/1.1" 404 3650
+INFO 2021-07-27 16:11:19,728 basehttp 154 "GET / HTTP/1.1" 200 9215
+INFO 2021-07-27 16:11:19,773 basehttp 154 "GET /media/article/20210727/72919936_2629325340480758_8136791431856904969_n_etDs878.jpg HTTP/1.1" 304 0
+INFO 2021-07-27 16:11:19,773 basehttp 154 "GET /media/article/20210727/72919936_2629325340480758_8136791431856904969_n.jpg HTTP/1.1" 304 0
+INFO 2021-07-27 16:11:20,762 basehttp 154 "GET / HTTP/1.1" 200 9215
+INFO 2021-07-27 16:11:21,245 basehttp 154 "GET / HTTP/1.1" 200 9215
+INFO 2021-07-27 16:11:21,474 basehttp 154 "GET / HTTP/1.1" 200 9215
+INFO 2021-07-27 16:11:21,662 basehttp 154 "GET / HTTP/1.1" 200 9215
+INFO 2021-07-27 16:11:22,062 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 9215
+INFO 2021-07-27 16:11:22,831 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 9215
+INFO 2021-07-27 16:11:23,312 basehttp 154 "GET / HTTP/1.1" 200 9215
+INFO 2021-07-27 16:11:23,899 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 9215
+INFO 2021-07-27 16:11:24,118 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 9215
+INFO 2021-07-27 16:11:24,557 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 6284
+INFO 2021-07-27 16:11:24,921 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 6284
+INFO 2021-07-27 16:11:26,781 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 4825
+INFO 2021-07-27 16:11:27,618 basehttp 154 "GET /?cat_id=4 HTTP/1.1" 200 4825
+INFO 2021-07-27 16:11:28,555 basehttp 154 "GET /?cat_id=5 HTTP/1.1" 200 4825
+INFO 2021-07-27 16:11:29,267 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 9215
+INFO 2021-07-27 16:11:31,618 basehttp 154 "GET /detail/?id=1 HTTP/1.1" 200 7471
+INFO 2021-07-27 16:11:32,879 basehttp 154 "GET / HTTP/1.1" 200 9215
+INFO 2021-07-27 16:11:33,381 basehttp 154 "GET / HTTP/1.1" 200 9215
+INFO 2021-07-27 16:11:35,210 basehttp 154 "GET /detail/?id=2 HTTP/1.1" 200 7471
+INFO 2021-07-27 16:11:44,647 basehttp 154 "GET /detail/?id=2 HTTP/1.1" 200 7471
+INFO 2021-07-27 16:11:44,740 basehttp 154 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 200 2039
+INFO 2021-07-27 16:11:44,744 basehttp 154 "GET /static/prism/prism.css HTTP/1.1" 200 4033
+INFO 2021-07-27 16:11:44,773 basehttp 154 "GET /static/js/detail.js HTTP/1.1" 200 1294
+INFO 2021-07-27 16:11:44,787 basehttp 154 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 200 690627
+INFO 2021-07-27 16:11:44,823 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/prism/lib/prism/prism_patched.min.js HTTP/1.1" 200 99487
+WARNING 2021-07-27 16:11:45,114 log 228 Not Found: /favicon.ico
+WARNING 2021-07-27 16:11:45,115 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3632
+INFO 2021-07-27 16:11:45,120 basehttp 154 "GET /static/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 200 338
+INFO 2021-07-27 16:11:45,148 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 200 46921
+INFO 2021-07-27 16:11:45,176 basehttp 154 "GET /static/ckeditor/ckeditor/lang/en.js?t=I3I8 HTTP/1.1" 200 19035
+INFO 2021-07-27 16:11:45,207 basehttp 154 "GET /static/ckeditor/ckeditor/styles.js?t=I3I8 HTTP/1.1" 200 5583
+INFO 2021-07-27 16:11:45,247 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/prism/plugin.js?t=I3I8 HTTP/1.1" 200 4333
+INFO 2021-07-27 16:11:45,250 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/codesnippet/plugin.js?t=I3I8 HTTP/1.1" 200 3824
+INFO 2021-07-27 16:11:45,270 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css HTTP/1.1" 200 1082
+INFO 2021-07-27 16:11:45,275 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css HTTP/1.1" 200 381
+INFO 2021-07-27 16:11:45,278 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css HTTP/1.1" 200 1306
+INFO 2021-07-27 16:11:45,279 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css HTTP/1.1" 200 419
+INFO 2021-07-27 16:11:45,284 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/codesnippet/lang/en.js?t=I3I8 HTTP/1.1" 200 369
+INFO 2021-07-27 16:11:45,309 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css HTTP/1.1" 200 1513
+INFO 2021-07-27 16:11:45,338 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/codesnippet/icons/codesnippet.png?t=I3I8 HTTP/1.1" 200 597
+INFO 2021-07-27 16:11:45,339 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=95e5d83 HTTP/1.1" 200 12421
+INFO 2021-07-27 16:11:45,393 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/prism/lib/prism/prism_patched.min.css HTTP/1.1" 200 2063
+INFO 2021-07-27 16:11:45,394 basehttp 154 "GET /static/ckeditor/ckeditor/contents.css?t=I3I8 HTTP/1.1" 200 2954
+INFO 2021-07-27 16:11:47,009 basehttp 154 "GET /detail/?id=4 HTTP/1.1" 200 7927
+INFO 2021-07-27 16:11:48,588 basehttp 154 "GET /detail/?id=3 HTTP/1.1" 200 7471
+INFO 2021-07-27 16:11:49,760 basehttp 154 "GET /detail/?cat_id=2 HTTP/1.1" 200 1149
+INFO 2021-07-27 16:11:49,799 basehttp 154 "GET /static/img/404.png HTTP/1.1" 200 107422
+INFO 2021-07-27 16:11:54,528 basehttp 154 "GET /detail/?cat_id=2 HTTP/1.1" 200 1149
+INFO 2021-07-27 16:11:56,660 basehttp 154 "GET /detail/?cat_id=2 HTTP/1.1" 200 1149
+INFO 2021-07-27 16:12:56,042 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 16:13:01,112 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 16:13:03,017 basehttp 154 "GET /detail/?cat_id=4 HTTP/1.1" 200 1149
+INFO 2021-07-27 16:13:04,735 basehttp 154 "GET /detail/?cat_id=3 HTTP/1.1" 200 1149
+INFO 2021-07-27 16:13:06,736 basehttp 154 "GET /detail/?cat_id=2 HTTP/1.1" 200 1149
+INFO 2021-07-27 16:13:09,631 basehttp 154 "GET /detail/?cat_id=2 HTTP/1.1" 200 1149
+INFO 2021-07-27 16:13:11,453 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 9215
+INFO 2021-07-27 16:13:13,080 basehttp 154 "GET /detail/?id=3 HTTP/1.1" 200 7471
+INFO 2021-07-27 16:13:13,781 basehttp 154 "GET /detail/?cat_id=3 HTTP/1.1" 200 1149
+INFO 2021-07-27 16:13:18,856 basehttp 154 "GET /detail/?cat_id=3 HTTP/1.1" 200 1149
+INFO 2021-07-27 16:13:21,202 basehttp 154 "GET /detail/?cat_id=3 HTTP/1.1" 200 1149
+INFO 2021-07-27 16:14:04,461 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 16:14:08,203 basehttp 154 "GET /detail/?cat_id=3 HTTP/1.1" 200 1149
+INFO 2021-07-27 16:14:10,169 basehttp 154 "GET /detail/?cat_id=2 HTTP/1.1" 200 1149
+INFO 2021-07-27 16:14:11,960 basehttp 154 "GET /detail/?cat_id=4 HTTP/1.1" 200 1149
+INFO 2021-07-27 16:14:27,477 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 16:14:32,438 basehttp 154 "GET /detail/?id=3 HTTP/1.1" 200 7430
+INFO 2021-07-27 16:14:33,265 basehttp 154 "GET /detail/?id=3 HTTP/1.1" 200 7430
+WARNING 2021-07-27 16:14:33,874 log 228 Not Found: /detail/4
+WARNING 2021-07-27 16:14:33,875 basehttp 154 "GET /detail/4 HTTP/1.1" 404 3623
+WARNING 2021-07-27 16:14:36,140 log 228 Not Found: /detail/3
+WARNING 2021-07-27 16:14:36,141 basehttp 154 "GET /detail/3 HTTP/1.1" 404 3623
+WARNING 2021-07-27 16:14:38,233 log 228 Not Found: /detail/3
+WARNING 2021-07-27 16:14:38,234 basehttp 154 "GET /detail/3 HTTP/1.1" 404 3623
+INFO 2021-07-27 16:15:29,916 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 16:15:32,558 basehttp 154 "GET /detail/?id=3 HTTP/1.1" 200 7472
+INFO 2021-07-27 16:15:33,372 basehttp 154 "GET /detail/?id=3 HTTP/1.1" 200 7472
+INFO 2021-07-27 16:15:34,305 basehttp 154 "GET /detail/?cat_id=4 HTTP/1.1" 200 1149
+INFO 2021-07-27 16:15:37,074 basehttp 154 "GET /detail/?cat_id=2 HTTP/1.1" 200 1149
+INFO 2021-07-27 16:15:40,621 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 9216
+INFO 2021-07-27 16:15:41,579 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 9216
+INFO 2021-07-27 16:15:42,252 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 6284
+INFO 2021-07-27 16:15:44,523 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 4825
+INFO 2021-07-27 16:15:47,340 basehttp 154 "GET /detail/?id=2 HTTP/1.1" 200 7471
+INFO 2021-07-27 16:15:49,184 basehttp 154 "GET /detail/?cat_id=3 HTTP/1.1" 200 1149
+INFO 2021-07-27 16:15:54,038 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 9216
+INFO 2021-07-27 16:15:58,351 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 4825
+INFO 2021-07-27 16:16:08,385 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 4825
+INFO 2021-07-27 16:16:59,468 basehttp 154 "GET /detail/?id=3 HTTP/1.1" 200 7472
+INFO 2021-07-27 16:17:30,970 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 16:17:33,226 basehttp 154 "GET /detail/?id=3 HTTP/1.1" 200 7416
+INFO 2021-07-27 16:17:34,065 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 4825
+INFO 2021-07-27 16:17:35,038 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 6284
+INFO 2021-07-27 16:17:35,370 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 9216
+INFO 2021-07-27 16:17:36,633 basehttp 154 "GET /detail/?id=3 HTTP/1.1" 200 7416
+INFO 2021-07-27 16:17:37,412 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 4825
+INFO 2021-07-27 16:17:37,950 basehttp 154 "GET / HTTP/1.1" 200 9216
+INFO 2021-07-27 16:17:38,678 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 6284
+INFO 2021-07-27 16:17:39,347 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 4825
+INFO 2021-07-27 16:17:39,872 basehttp 154 "GET /?cat_id=4 HTTP/1.1" 200 4825
+INFO 2021-07-27 16:17:40,350 basehttp 154 "GET /?cat_id=3 HTTP/1.1" 200 4825
+INFO 2021-07-27 16:17:40,594 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 6284
+INFO 2021-07-27 16:17:40,876 basehttp 154 "GET / HTTP/1.1" 200 9216
+INFO 2021-07-27 16:17:42,028 basehttp 154 "GET /detail/?id=3 HTTP/1.1" 200 7416
+INFO 2021-07-27 16:17:42,562 basehttp 154 "GET /?cat_id=4 HTTP/1.1" 200 4825
+INFO 2021-07-27 16:17:42,910 basehttp 154 "GET /?cat_id=5 HTTP/1.1" 200 4825
+INFO 2021-07-27 20:03:04,753 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 20:03:13,218 basehttp 154 "GET / HTTP/1.1" 200 9216
+INFO 2021-07-27 20:03:13,820 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2021-07-27 20:03:13,938 basehttp 154 "GET /media/article/20210727/72919936_2629325340480758_8136791431856904969_n_Q2kMX1f.jpg HTTP/1.1" 304 0
+INFO 2021-07-27 20:03:13,990 basehttp 154 "GET /media/article/20210727/72919936_2629325340480758_8136791431856904969_n_etDs878.jpg HTTP/1.1" 304 0
+INFO 2021-07-27 20:03:14,192 basehttp 154 "GET /media/article/20210727/72919936_2629325340480758_8136791431856904969_n.jpg HTTP/1.1" 304 0
+INFO 2021-07-27 20:03:19,675 basehttp 154 "GET /detail/?id=3 HTTP/1.1" 200 7416
+INFO 2021-07-27 20:03:27,648 basehttp 154 "GET /writeblog/ HTTP/1.1" 302 0
+INFO 2021-07-27 20:03:27,702 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 200 3212
+INFO 2021-07-27 20:05:15,593 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 20:05:20,101 basehttp 154 "GET / HTTP/1.1" 200 9216
+INFO 2021-07-27 20:05:25,245 basehttp 154 "GET /writeblog/ HTTP/1.1" 302 0
+INFO 2021-07-27 20:05:25,265 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 200 3212
+INFO 2021-07-27 20:05:38,673 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 200 3212
+INFO 2021-07-27 20:05:38,721 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 200 3212
+ERROR 2021-07-27 20:05:38,863 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 500 59
+INFO 2021-07-27 20:05:38,895 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 200 3212
+ERROR 2021-07-27 20:05:38,896 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 500 59
+INFO 2021-07-27 20:05:38,898 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 200 3212
+INFO 2021-07-27 20:05:38,958 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 200 3212
+ERROR 2021-07-27 20:05:39,194 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 500 59
+ERROR 2021-07-27 20:05:39,322 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 500 59
+ERROR 2021-07-27 20:05:39,434 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 500 59
+INFO 2021-07-27 20:05:39,547 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 200 3212
+INFO 2021-07-27 20:05:40,340 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 200 3212
+ERROR 2021-07-27 20:05:40,603 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 500 59
+INFO 2021-07-27 20:05:41,029 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 200 3212
+INFO 2021-07-27 20:05:41,107 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 200 3212
+ERROR 2021-07-27 20:05:41,209 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 500 59
+INFO 2021-07-27 20:05:41,439 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 200 3212
+ERROR 2021-07-27 20:05:41,475 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 500 59
+INFO 2021-07-27 20:05:41,476 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 200 3212
+ERROR 2021-07-27 20:05:41,476 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 500 59
+INFO 2021-07-27 20:05:42,707 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-27 20:05:42,912 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-27 20:05:42,928 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-27 20:05:43,008 basehttp 154 "GET /static/js/login.js HTTP/1.1" 200 677
+INFO 2021-07-27 20:05:43,730 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-27 20:05:43,809 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+WARNING 2021-07-27 20:05:44,932 log 228 Not Found: /favicon.ico
+WARNING 2021-07-27 20:05:45,056 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3632
+INFO 2021-07-27 20:06:40,038 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-07-27 20:06:51,544 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 200 3212
+INFO 2021-07-27 20:06:52,210 basehttp 154 "GET /login/?next=/writeblog/ HTTP/1.1" 200 3212
+INFO 2021-07-27 20:07:02,957 basehttp 154 "POST /login/?next=/writeblog/ HTTP/1.1" 302 0
+INFO 2021-07-27 20:07:03,049 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5933
